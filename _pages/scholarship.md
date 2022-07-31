@@ -1,6 +1,8 @@
 ---
+permalink: /personal/
 title: "Scholarship statistics"
-permalink: /scholarship/
+modified: 31 July 2022
+author_profile: true
 ---
 
 ```{r setup, include = FALSE}
@@ -52,16 +54,15 @@ pubs <- pubs %>%
 
 My Google Scholar profile can be found [here](https://scholar.google.com/citations?user=B59js_8AAAAJ&hl=en).
 
--   Current affiliation: `r gs_profile$affiliation`
--   Research interests: `r paste0(gs_profile$interests, collapse = ", ")`
--   Citations: `r gs_profile$total_cites` citations (details on publications can be found in [Publications](https://janickweberpals.github.io/files/publications.html)
--   h-index: `r gs_profile$h_index`
--   i10-index: `r gs_profile$i10_index`
+* Current affiliation: `r gs_profile$affiliation`
+* Research interests: `r paste0(gs_profile$interests, collapse = ", ")`
+* Citations: `r gs_profile$total_cites` citations (details on publications can be found in [Publications](https://janickweberpals.github.io/files/publications.html)
+* h-index: `r gs_profile$h_index`
+* i10-index: `r gs_profile$i10_index`
 
 # Citations and impact factors
 
 ## Citations per year
-
 ```{r}
 # get citations
 gs_cites <- scholar::get_citation_history(gs_id) %>% 
@@ -80,7 +81,6 @@ plotly::ggplotly(cites)
 ```
 
 ## Cumulative citations
-
 ```{r}
 cumcites <- gs_cites %>% 
   ggplot2::ggplot(ggplot2::aes(x = year, y = cites_cum)) +
@@ -96,7 +96,6 @@ plotly::ggplotly(cumcites)
 ```
 
 ## Cumulative impact factor publications by year
-
 ```{r}
 cumif <- pubs %>% 
   dplyr::mutate(journal = forcats::fct_reorder(factor(journal), desc(impact_factor))) %>% 
@@ -114,7 +113,6 @@ plotly::ggplotly(cumif)
 ## Top cited articles
 
 My top 5 cited articles are listed below. The impact factor relates to the year of publication. A more detailed list on publications can be found in [Report of Scholarship](https://janickweberpals.github.io/scholarship/#Report_of_Scholarship) below.
-
 ```{r}
 pubs %>% 
   dplyr::arrange(desc(cites)) %>% 
@@ -130,6 +128,7 @@ pubs %>%
   ftExtra::colformat_md(j = 'Full citation') %>% 
   flextable::bold(part = "header")
 ```
+
 
 ```{r, eval=FALSE, warning=FALSE}
 ## Co-author network
