@@ -1,5 +1,5 @@
 ---
-permalink: /personal/
+permalink: /scholarship/
 title: "Scholarship statistics"
 modified: 31 July 2022
 author_profile: true
