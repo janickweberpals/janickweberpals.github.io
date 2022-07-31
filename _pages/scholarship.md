@@ -1,14 +1,6 @@
 ---
 title: "Scholarship statistics"
 permalink: /scholarship/
-output:
-  html_document:
-    toc: yes
-    toc_depth: 3
-    toc_float: yes
-    number_sections: false
-    code_folding: hide
-    classoption: landscape
 ---
 
 ```{r setup, include = FALSE}
