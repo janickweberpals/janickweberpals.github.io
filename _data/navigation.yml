@@ -21,8 +21,8 @@ main:
   - title: "CV"
     url: /files/cv.pdf
     
-  #- title: "Personal"
-    #url: /personal/
+  - title: "Personal"
+    url: /personal/
     
   #- title: "Guide"
     #url: /markdown/
