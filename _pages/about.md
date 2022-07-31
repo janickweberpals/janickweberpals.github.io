@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Janick Weberpals, RPh, PhD, is an Instructor in Medicine at Harvard Medical School and Associate Scientist in the Division of Pharmacoepidemiology and Pharmacoeconomics at Brigham and Women’s Hospital.
+Janick Weberpals, RPh, PhD, is an Instructor in Medicine at Harvard Medical School and Associate Scientist in the [Division of Pharmacoepidemiology and Pharmacoeconomics](https://www.drugepi.org) at Brigham and Women’s Hospital.
 
 # Research interests
 

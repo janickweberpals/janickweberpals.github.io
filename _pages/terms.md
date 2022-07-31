@@ -1,39 +1,19 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2016-06-06
+permalink: /teaching/
+title: "Teaching Philosophy"
+modified: 30 July 2022
 ---
 
-{% include base_path %}
-{% include toc %}
+I had my first academic teaching and mentoring experiences as a senior graduate student in the third year of my PhD. Since I was heavily involved in cancer prog- nostic studies, I instructed new research scholars and graduate students with the fundamentals of cancer epidemiology. Already at that point I figured out three teaching and mentoring principles that I always like to pass on to mentees and students.
 
-## Privacy Policy
+# Hands-on
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+I would describe myself as an autodidact as I have always enjoyed to figure out things on my own and apply them hands-on. Admittedly, an autodidact learning rate can be significantly slower than more systematic learning approaches as hierarchical principles may not be pre-structured. Nevertheless, it taught me that concepts can be learned more deeply and sustainably by discovering them hands- on. For example, I recently gave an introductory lecture Pharmacoepidemiology 101 for master’s students in medical biometry/biostatistics who are strongly trained in the analysis of randomized trials but were mostly not aware of biases inherited in non-randomized data. The way I approached the abstract world of biases in phar- macoepidemiology was to present studies in which one of the biases led to a wrong conclusion of the study. Instead of pre-instructing them on these biases, they had to figure out potential problems there may have been with the study design or anal- ysis in a team-based way. It was thrilling to see how much both the students and I learned from each other and how quickly they adopted and applied the learned concepts in a following exercise lecture. This is why I think a hands-on approach leads to a more sustainable learning success.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+# Passion
 
-### Log Files
+When instructing and supervising students, one of my major aims is to create passion for the subject of matter. When interviewing candidates for new positions, one thing that I always ask is which topic they would like to do research on if they had a choice. I made the experience that not many applicants have an answer to that, who otherwise demonstrated an excellent skillset for the positions they applied for. I see it as my mission to guide students and lead them to their field of interest that they feel most passionate for. This creates a situation where students are most excited and productive about their work and research. It also helps them to set a basis for their future professional life. For example, when I discuss with gradu- ate students about their next strategical step in their projects, instead of providing them my opinion, I first ask them to tell me what they think would be the best next step. This provides them the neccessary maturity and responsibility to con- fidently conduct their own research and establish their profiles in the scientific world.
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+# Curiosity
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
-
-All of this information is not linked to anything that is personally identifiable.
-
-### Cookies and Web Beacons
-
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+Finally, I always encourage students to be curious and try to expand their knowledge and understanding beyond their own scientific branch. It is crit- ical to advocate from early on that science is international and interdisciplinary. Particularly in the field of health sciences, the joint work of many professions is nec- essary to make a difference for the patient. The pharmaceutical profession comes in many nuances from being a hospital pharmacist who sees patients and consults physicians to the pharmacist in basic research who analyzes genomic data to de- velop new and innovative drugs. Especially for undergraduate students it is very important to make them aware of the possibilities there are. I realized this on my own as I would not have discovered the field of pharmacoepidemiology without be- ing curious and expanding my horizon. This also why I chose to do a postdoctoral fellowship in a data scientific environment mainly working with computer scientists and bioinformaticians on machine learning problems. I have often realized that we speak two different languages for the exact same thing and that it is possible to learn a lot from each other. Another aspect of being curious is the critical appraisal of findings that one may take for granted. I started my PhD asking the question if β-blockers may be used as chemopreventive drug leading to a better prognosis for cancer patients. By systematically summarizing and meta-analyzing pertinent studies, it turned out that a common methodological pitfall in the design of epi- demiological studies (immortal time bias) was the major driver among those studies to arrive at this conclusion. This is a striking example for my motivation to teach and instruct students to always make informed decisions based on the best current evidence.
