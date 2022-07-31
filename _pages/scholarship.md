@@ -1,7 +1,7 @@
 ---
 permalink: /scholarship/
 title: "Scholarship"
-modified: "`r Sys.Date()`"
+modified: 30 July 2022
 author_profile: true
 ---
 
