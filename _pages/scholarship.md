@@ -1,7 +1,6 @@
 ---
 permalink: /scholarship/
 title: "Scholarship"
-modified: 31 July 2022
 author_profile: true
 ---
 
