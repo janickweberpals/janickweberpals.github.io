@@ -1,8 +1,17 @@
 ---
 permalink: /teaching/
-title: "Teaching Philosophy"
+title: "Teaching"
 modified: 30 July 2022
 ---
+
+## Currently taught classes
+
+Since 2019, I have had the opportunity to teach the following lecture every other year at the Medical Faculty of Heidelberg, Rupert Carola University Heidelberg (Germany):
+
+> Introduction to Pharnacoepidemiology, Epidemiology Module, Medical Biometry/Biostatistics MSc course
+Institute for Medical Biometry and Informatics (IMBI), Medical Faculty of Heidelberg, Rupert Carola University Heidelberg (Germany), 6-hr one day session, 2 yr cycle
+
+## Teaching philosophy
 
 I had my first academic teaching and mentoring experiences as a senior graduate student in the third year of my PhD. Since I was heavily involved in cancer prognostic studies, I instructed new research scholars and graduate students with the fundamentals of cancer epidemiology. Already at that point I figured out three teaching and mentoring principles that I always like to pass on to mentees and students.
 
