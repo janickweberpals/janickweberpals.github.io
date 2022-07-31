@@ -18,9 +18,9 @@ His most recent projects centered around missing data approaches in EHR, prognos
 
 ## Training 
 
-* **2015** Pharmacy degree (Registered Pharmacist) from Philipps-University Marburg, Germany 
+* **2015** Pharmacy degree (Registered Pharmacist), College of Pharmacy, Philipps-University Marburg, Germany 
 * **2018** Board certification as specialized pharmacist in drug information, Germany
-* **2019** Ph.D. in Epidemiology from the University of Heidelberg, Germany
+* **2019** Ph.D. in Epidemiology, Medical Faculty, University of Heidelberg, Germany
 * **2018-2020** Postdoctoral training in machine and deep learning in electronic health records (EHR), Roche Innovation Center Munich, Germany
 
 ## Recent research projects
