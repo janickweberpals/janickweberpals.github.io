@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Scholarship"
-    url: /files/scholarship.html
+    url: /scholarship/
     
   - title: "Publications"
     url: /files/publications.html
