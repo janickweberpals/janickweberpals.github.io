@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-modified: "`r Sys.Date()`"
+modified: `r Sys.Date()`
 author_profile: true
 ---
 
