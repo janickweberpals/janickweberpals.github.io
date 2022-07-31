@@ -18,6 +18,6 @@ Dr. Weberpals holds a pharmacy degree from Philipps-University Marburg, Germany,
 
 ## Recent research projects
 
-Weberpals J, Becker T, Davies J, Schmich F, Rüttinger D, Theis FJ, Bauer-Mehren A. Deep learning-based propensity scores for confounding control in comparative effectiveness research: A large-scale, real-world data study. Epidemiology. 2021 May 1;32(3):378-88.
+*Weberpals J, Becker T, Davies J, Schmich F, Rüttinger D, Theis FJ, Bauer-Mehren A. Deep learning-based propensity scores for confounding control in comparative effectiveness research: A large-scale, real-world data study. **Epidemiology**. 2021 May 1;32(3):378-88.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ULX5usCw1js" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
