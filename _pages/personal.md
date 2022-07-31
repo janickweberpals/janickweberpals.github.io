@@ -17,6 +17,10 @@ Still some of the most memorable music moments I have had, was with *Story of my
 
 **Story of my life - Of a song that changed the world**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QP46ZvQNnzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+In 2008 I won a song writing competition of the initiative "Start ins Studium". As a result, the German Punk-Band "Donots" re-recorded their song "Still alive these times" with my lyrics:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIt8lRNXqMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Travelling, video editing and aviation
 

@@ -9,7 +9,8 @@ modified: 30 July 2022
 Since 2019, I have had the opportunity to teach the following lecture every other year at the Medical Faculty of Heidelberg, Rupert Carola University Heidelberg (Germany):
 
 > Introduction to Pharnacoepidemiology, Epidemiology Module, Medical Biometry/Biostatistics MSc course
-Institute for Medical Biometry and Informatics (IMBI), Medical Faculty of Heidelberg, Rupert Carola University Heidelberg (Germany), 6-hr one day session, 2 yr cycle
+Institute for Medical Biometry and Informatics (IMBI), Medical Faculty of Heidelberg, Rupert Carola University Heidelberg (Germany), 
+6-hr one day session, 2 yr cycle
 
 ## Teaching philosophy
 
