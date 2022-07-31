@@ -1,10 +1,13 @@
 # main links links
 main:
+  - title: "Scholarship"
+    url: /files/scholarship.html
+    
   - title: "Publications"
-    url: /files/publications.pdf
+    url: /files/publications.html
 
   - title: "Talks"
-    url: /files/talks/    
+    url: /files/talks.html  
 
   - title: "Teaching"
     url: /teaching/    
