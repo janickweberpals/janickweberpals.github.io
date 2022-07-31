@@ -4,7 +4,7 @@ main:
     url: /scholarship/
     
   - title: "Publications"
-    url: /files/publications.html
+    url: /publications/
 
   - title: "Talks"
     url: /files/talks.html  
