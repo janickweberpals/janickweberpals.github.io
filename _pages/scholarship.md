@@ -1,7 +1,12 @@
 ---
-permalink: /scholarship/
+layout: archive
 title: "Scholarship"
+permalink: /scholarship/
 author_profile: true
 ---
 
-<iframe src="/files/scholarship.html" height="600" width="1000"></iframe>
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
