@@ -4,8 +4,8 @@ title: "CV"
 author_profile: true
 ---
 
-## CV (short version)
+Short version
 <iframe src="/files/cv.pdf" height="600" width="900"></iframe>
 
-## CV (long version)
+## Long version
 ... under development
