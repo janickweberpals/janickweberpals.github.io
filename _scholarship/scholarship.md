@@ -1,3 +1,9 @@
+---
+permalink: /scholarship/
+title: "Scholarship"
+author_profile: true
+---
+
 My Google Scholar profile can be found
 [here](https://scholar.google.com/citations?user=B59js_8AAAAJ&hl=en).
 
