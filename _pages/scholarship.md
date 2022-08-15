@@ -1,12 +1,7 @@
 ---
-layout: archive
-title: "Scholarship"
 permalink: /scholarship/
+title: "Scholarship"
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.scholarship reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<iframe src="/files/scholarship.html" height="600" width="1000"></iframe>

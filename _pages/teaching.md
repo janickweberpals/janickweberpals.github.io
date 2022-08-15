@@ -1,14 +1,26 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-modified: 30 July 2022
+modified: 15 August 2022
 ---
 
 ## Currently taught classes
 
+### ICPE pre-conference course on missing data (Copenhagen, Denmark)
+
+* Upcoming: ICPE 2022, Copenhagen, Denmark
+* Thursday, August 25, 2022
+
+This course will introduce participants to the methods available to mitigate concerns around missing data in Real World Evidence studies. These include the identification and incorporation of data from external validation groups, the use of subset internal calibration groups, and the use of multiple imputation methods when data are believed to be missing at random. Real-world examples will be used across the lecture sessions to illustrate and connect different concepts.
+
+>**Landscape Analysis on Techniques to Deal with Missing Data in Longitudinal Healthcare Databases**
+>**Session**: Advanced Pharmacoepidemiology Methods: Mitigating Missing Data Concerns with External or Internal Subset Validation Populations <br>
+
+### Introduction to Pharmacoepidemiology (Heidelberg, Germany)
+
 Since 2019, I have had the opportunity to teach the following lecture every other year at the Medical Faculty of Heidelberg, Rupert Carola University Heidelberg (Germany):
 
-> Introduction to Pharnacoepidemiology, Epidemiology Module, Medical Biometry/Biostatistics MSc course
+>**Introduction to Pharnacoepidemiology**, Epidemiology Module, Medical Biometry/Biostatistics MSc course
 Institute for Medical Biometry and Informatics (IMBI), Medical Faculty of Heidelberg, Rupert Carola University Heidelberg (Germany), 
 6-hr one day session, 2 yr cycle
 
