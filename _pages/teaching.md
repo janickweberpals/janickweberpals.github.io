@@ -13,7 +13,7 @@ modified: 15 August 2022
 
 This course will introduce participants to the methods available to mitigate concerns around missing data in Real World Evidence studies. These include the identification and incorporation of data from external validation groups, the use of subset internal calibration groups, and the use of multiple imputation methods when data are believed to be missing at random. Real-world examples will be used across the lecture sessions to illustrate and connect different concepts.
 
->**Landscape Analysis on Techniques to Deal with Missing Data in Longitudinal Healthcare Databases**
+>**Landscape Analysis on Techniques to Deal with Missing Data in Longitudinal Healthcare Databases** <br>
 >**Session**: Advanced Pharmacoepidemiology Methods: Mitigating Missing Data Concerns with External or Internal Subset Validation Populations <br>
 
 ### Introduction to Pharmacoepidemiology (Heidelberg, Germany)
