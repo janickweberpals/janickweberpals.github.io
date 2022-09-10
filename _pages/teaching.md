@@ -1,17 +1,17 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-modified: 15 August 2022
+modified: 10 September 2022
 ---
 
-## Currently taught classes
+## Teaching profile
 
 ### ICPE pre-conference course on missing data (Copenhagen, Denmark)
 
-* Upcoming: ICPE 2022, Copenhagen, Denmark
+* ICPE 2022, Copenhagen, Denmark
 * Thursday, August 25, 2022
 
-This course will introduce participants to the methods available to mitigate concerns around missing data in Real World Evidence studies. These include the identification and incorporation of data from external validation groups, the use of subset internal calibration groups, and the use of multiple imputation methods when data are believed to be missing at random. Real-world examples will be used across the lecture sessions to illustrate and connect different concepts.
+This course introduced participants to advanced methods available to mitigate concerns around missing data in Real World Evidence studies. These include the identification and incorporation of data from external validation groups, the use of subset internal calibration groups, and the use of multiple imputation methods when data are believed to be missing at random. Real-world examples will be used across the lecture sessions to illustrate and connect different concepts.
 
 >**Landscape Analysis on Techniques to Deal with Missing Data in Longitudinal Healthcare Databases** <br>
 >**Session**: Advanced Pharmacoepidemiology Methods: Mitigating Missing Data Concerns with External or Internal Subset Validation Populations <br>
