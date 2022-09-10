@@ -23,7 +23,7 @@ His most recent projects centered around missing data approaches in EHR, prognos
 * **2019** - Ph.D. in Epidemiology, Medical Faculty, University of Heidelberg, Germany
 * **2018-2020** - Postdoctoral training in machine and deep learning in electronic health records (EHR), Roche Innovation Center Munich, Germany
 
-## Recent research projects
+## Featured research project
 
 > Weberpals J, Becker T, Davies J, Schmich F, Rüttinger D, Theis FJ, Bauer-Mehren A. Deep learning-based propensity scores for confounding control in comparative effectiveness research: A large-scale, real-world data study. **Epidemiology**. 2021 May 1;32(3):378-88.
 
