@@ -8,4 +8,4 @@ author_profile: true
 <iframe src="/files/cv.pdf" height="600" width="900"></iframe>
 
 ## Long version
-... under development
+<iframe src="/files/cv_long.pdf" height="600" width="900"></iframe>
