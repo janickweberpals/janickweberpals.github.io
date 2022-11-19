@@ -7,7 +7,8 @@ author_profile: true
 ## Talks (conferences and invited)
 
 **Landscape Analysis on Techniques to Deal with Missing Data in Longitudinal Healthcare Databases.** <br>
-The presentation was part of the pre-conference educational course *Advanced Pharmacoepidemiology Methods: Mitigating Missing Data Concerns with External or Internal Subset Validation Populations.* 38th International Conference on Pharmacoepidemiology and Therapeutic Risk Management, Copenhagen, Denmark, August 25th 2022. [Educational conference talk]
+The presentation was part of the pre-conference educational course *Advanced Pharmacoepidemiology Methods: Mitigating Missing Data Concerns with External or Internal Subset Validation Populations.* 38th International Conference on Pharmacoepidemiology and Therapeutic Risk Management, Copenhagen, Denmark, August 25th 2022. [Educational conference talk] <br>
+[Link to recording](https://youtu.be/VgGZaGBK0Yo?t=313)
 
 **Deep Learning on Electronic Health Records for Research in Pharmacoepidemiology: Examples from The Field of Oncology.** <br>
 Invited speaker at FDA Sentinel Innovation and Methods Seminar series on September 7th 2022 (Invited talk).

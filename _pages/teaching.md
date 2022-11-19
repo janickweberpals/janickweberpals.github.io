@@ -13,7 +13,7 @@ modified: 19 November 2022
 
 This course introduced participants to advanced methods available to mitigate concerns around missing data in Real World Evidence studies. These include the identification and incorporation of data from external validation groups, the use of subset internal calibration groups, and the use of multiple imputation methods when data are believed to be missing at random. Real-world examples will be used across the lecture sessions to illustrate and connect different concepts.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VgGZaGBK0Yo?start=313" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Introduction to Pharmacoepidemiology (Heidelberg, Germany)
 
