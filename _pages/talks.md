@@ -4,26 +4,33 @@ title: "Scientific talks and conference contributions"
 author_profile: true
 ---
 
-## Talks
+## Conference talks
 
-**Weberpals J**, Sondhi A, Jiang C, Yerram P, Taylor MD, Samant M, Cherng ST. A Systematic Approach Towards Missing Lab Data in Electronic Health Records: A Case Study in Non-Small Cell Lung Cancer and Multiple Myeloma. 37th International Conference on Pharmacoepidemiology & Therapeutic Risk Management 2021. Pharmacoepidemiol Drug Saf 2021; 30:36-36. [Oral presentation]
+**Landscape Analysis on Techniques to Deal with Missing Data in Longitudinal Healthcare Databases.** The presentation was part of the pre-conference educational course *Advanced Pharmacoepidemiology Methods: Mitigating Missing Data Concerns with External or Internal Subset Validation Populations.* 38th International Conference on Pharmacoepidemiology and Therapeutic Risk Management, Copenhagen, Denmark, 25th August 2022. [Educational conference talk]
 
-**Weberpals J**, Becker T, Schmich F, Rüttinger D, Bauer-Mehren A*, Theis FJ*. Deep learning-based propensity scores for confounding control in comparative effectiveness research: a large-scale real-world data study. 36th International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Berlin, Germany, 2020. Pharmacoepidemiol Drug Saf 2020; 29(S3):382-383 [Oral presentation]
+**Deep Learning on Electronic Health Records for Research in Pharmacoepidemiology: Examples from The Field of Oncology.** Invited speaker at FDA Sentinel Innovation and Methods Seminar series on September 7, 2022 (virtual).
 
-Loureiro H, Becker T, Bauer-Mehren A, Ahmidi N, **Weberpals J**. Improving predictive ability of survival models: comparison of multiple state of the art models. 36th International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Berlin, Germany, 2020. Pharmacoepidemiol Drug Saf 2020; 29(S3):35-35 [Oral presentation]
+**A Systematic Approach Towards Missing Lab Data in Electronic Health Records: A Case Study in Non-Small Cell Lung Cancer and Multiple Myeloma.** 37th International Conference on Pharmacoepidemiology & Therapeutic Risk Management 2021. Pharmacoepidemiol Drug Saf 2021; 30:36-36. [Oral presentation]
 
-Cancer Pharmacoepidemiology: Researching the Diffusion of Innovation. University of Florida, Gainesville, FL, USA, November 14th 2019. [Faculty candidate seminar presentation]
+**Deep learning-based propensity scores for confounding control in comparative effectiveness research: a large-scale real-world data study.** 36th International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Berlin, Germany, 2020. Pharmacoepidemiol Drug Saf 2020; 29(S3):382-383 [Oral presentation]
 
-Deep learning-based propensity score computation - A methodological approach to constructing synthetic control arms. RPF/RiSE Symposium 2019. Basel, 2nd September 2019. [Oral presentation]
+**Real-world Data Science in Pharmaceutical Research & Early Drug Development.** Research & Development Career Day and Mentoring Event, German Cancer Research Center (DKFZ), Heidelberg, Germany, 6th December 2019.
 
-Deep Learning in Pharmacoepidemiology & Drug Development. Mittwochsfortbildung [Clinical advanced training lecture], Department for Clinical Pharmacology and Pharmacoepidemiology, University hospital Heidelberg, Heidelberg, Germany, 9th August 2019. [Invited oral presentation]
+**Cancer Pharmacoepidemiology: Researching the Diffusion of Innovation.** University of Florida, Gainesville, FL, USA, November 14th 2019. [Faculty candidate seminar presentation]
 
-Deep Learning on Real-World Data: Overview and Application in Early Drug Development. Symposium Clinical Pharmacology & Clinical Pharmacy. Reims, France, 29th June 2019. [Oral presentation]
+**Deep learning-based propensity score computation - A methodological approach to constructing synthetic control arms.** RPF/RiSE Symposium 2019. Basel, 2nd September 2019. [Oral presentation]
 
-High-dimensional real-world data: chances, challenges and exemplary use cases. Global Data Science Conference (Roche internal). Baden-Baden, 26th June 2019. [Oral presentation]
-Deep Learning-based Propensity Score Computation: Exemplary Cohort Study in Second Line Metastatic Cancer Patients Treated with Cancer Immunotherapy Versus Non-Cancer Immunotherapy. 10th Workshop of the working group Pharmacoepidemiology of the German Society for Epidemiology (DGEpi). Berlin, 24th May 2019. [Oral presentation]
+**Deep Learning in Pharmacoepidemiology & Drug Development.** Mittwochsfortbildung [Clinical advanced training lecture], Department for Clinical Pharmacology and Pharmacoepidemiology, University hospital Heidelberg, Heidelberg, Germany, 9th August 2019. [Invited oral presentation]
 
-## Posters
+**Deep Learning on Real-World Data: Overview and Application in Early Drug Development.** Symposium Clinical Pharmacology & Clinical Pharmacy. Reims, France, 29th June 2019. [Oral presentation]
+
+**High-dimensional real-world data: chances, challenges and exemplary use cases.** Global Data Science Conference (Roche internal). Baden-Baden, 26th June 2019. [Oral presentation]
+
+**Deep Learning-based Propensity Score Computation: Exemplary Cohort Study in Second Line Metastatic Cancer Patients Treated with Cancer Immunotherapy Versus Non-Cancer Immunotherapy.** 10th Workshop of the working group Pharmacoepidemiology of the German Society for Epidemiology (DGEpi). Berlin, 24th May 2019. [Oral presentation]
+
+**Comparative performance of a modified landmark approach when no time of treatment data are available within oncological databases: exemplary cohort study among resected pancreatic cancer patients.** 9th Workshop of the working group Pharmacoepidemiology of the German Society for Epidemiology (DGEpi). Bremen, 8th June 2018. [Oral presentation]
+
+## Posters and others
 
 **Weberpals J**, Fruechtenicht C, Davis R, Huntley M, Oki Y, Wyatt S, Castro F, Trinh H. Patient characteristics, outcomes and potential for bias in oncological real-world data studies with imaging-derived response endpoints. 38th International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Copenhagen, Denmark 2022. Pharmacoepidemiol Drug Saf 2022. (Poster)
 
@@ -33,13 +40,14 @@ Dienstmann R, Turnbul Cl, Hackshaw Allan, Blay JY, Maud K, Servant N, Geissler J
 
 Lenz HJ, **Weberpals J**, Cremolini C, Grothey A, Leutgeb B, Mahrus S, Nimeiri H, Reyes-Rivera I, Seligmann J, Tabernero J, Tejpar S, Yoshino T, Stintzing S. Utilisation and predictors of genomic testing prior to first-line (1L) therapy in patients (pts) with metastatic colorectal cancer (mCRC). ESMO 2021. Ann Oncol 2021; 32(5); S530-S582. [Poster]
 
+Loureiro H, Becker T, Bauer-Mehren A, Ahmidi N, **Weberpals J**. Improving predictive ability of survival models: comparison of multiple state of the art models. 36th International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Berlin, Germany, 2020. Pharmacoepidemiol Drug Saf 2020; 29(S3):35-35 [Oral presentation given by mentee]
+
 **Weberpals J**, Becker T, Schmich, Rüttinger D, Theis FJ, Bauer-Mehren A. Deep learning-based propensity score computation: Cohort study in second line treated advanced non-small cell lung cancer (aNSCLC) patients. 35rd International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Philadelphia, USA, 2019. Pharmacoepidemiol Drug Saf 2019; 28:585-586. [Poster]
 
 **Weberpals J**, Jansen L, Silversmit G, Veerbeck J, van der Geest L, Vissers PAJ, Zadnik V, Brenner H. Comparative performance of a modified landmark approach when no time of treatment data are available within oncological databases: exemplary cohort study among resected pancreatic cancer patients. Pharmacoepidemiol Drug Saf 2018; 27:223-223.
 
 **Weberpals J**, Jansen L, Müller OJ, Brenner H. Long-term heart-specific mortality among 347,476 breast cancer patients treated with radio- or chemotherapy: A registry-based study. Pharmacoepidemiol Drug Saf 2018;27:144-144.
 
-Comparative performance of a modified landmark approach when no time of treatment data are available within oncological databases: exemplary cohort study among resected pancreatic cancer patients. 9th Workshop of the working group Pharmacoepidemiology of the German Society for Epidemiology (DGEpi). Bremen, 8th June 2018. [Oral presentation]
 **Weberpals J**, Jansen L, Haefeli WE, Hoffmeister M, Wolkewitz M, Herk-Sukel MPPv, Vissers PAJ, Brenner H. Pre- and post-diagnostic β-blocker use and lung cancer survival: A population-based cohort study. 33rd International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Montréal, Canada, 2017. Pharmacoepidemiol Drug Saf 2017;26: 269-269 [Spotlight Poster]
 
 **Weberpals J**, Jansen L, van Herk-Sukel MPP, Kuiper JG, Aarts MJ, Vissers PAJ, Brenner H. Immortal time bias in pharmacoepidemiological studies on cancer patient survival: empirical illustration for beta-blocker use in four cancers with different prognosis. 33rd International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Montréal, Canada, 2017. Pharmacoepidemiol Drug Saf 2017;26:91-91 [Poster]
