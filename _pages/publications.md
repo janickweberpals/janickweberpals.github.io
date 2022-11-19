@@ -14,7 +14,7 @@ author_profile: true
 
 Graf RP, Fisher V, **Weberpals J**, Gjoerup O, Tierno MB, Huang RSP, Sayegh N, Lin DI, Raskina K, Schrock AB, Severson E, Haberberger JF, Ross JS, Creeden J, Levy MA, Alexander BM, MD, Oxnard GR, Agarwal N. Comparative Effectiveness of Immune Checkpoint Inhibitors vs. Chemotherapy by Tumor Mutational Burden in Metastatic Castration-Resistant Prostate Cancer. JAMA Netw Open. 2022;5(3):e225394. doi:10.1001/jamanetworkopen.2022.5394
 
-Loureiro H**, Becker T, Bauer-Mehren A, Ahmidi N*, **Weberpals J**\*. Artificial Intelligence for Prognostic Scores in Oncology: a Benchmarking Study. Front Artif Intell. 2021 Apr 16;4:625573. doi: 10.3389/frai.2021.625573. PMID: 33937744; PMCID: PMC8086599.
+Loureiro H**\*, Becker T, Bauer-Mehren A, Ahmidi N*, **Weberpals J**\*. Artificial Intelligence for Prognostic Scores in Oncology: a Benchmarking Study. Front Artif Intell. 2021 Apr 16;4:625573. doi: 10.3389/frai.2021.625573. PMID: 33937744; PMCID: PMC8086599.
 
 **Weberpals J**, Becker T, Davies J, Schmich F, Rüttinger D, Theis FJ, Bauer-Mehren A. Deep Learning-based Propensity Scores for Confounding Control in Comparative Effectiveness Research: A Large-scale, Real-world Data Study. Epidemiology. 2021 May 1;32(3):378-88. doi: 10.1097/EDE.0000000000001338. PMID: 33591049.
 
@@ -40,7 +40,7 @@ Brunssen A, Jansen L, Eisemann N, Waldmann A, **Weberpals J**, Kraywinkel K, Ebe
 
 Pulte D, **Weberpals J**, Schröder CC, Emrich K, Holleczek B, Katalinic A, Luttmann S, Sirri E, Jansen L, Brenner H; GEKID Cancer Survival Working Group. Survival of patients with hepatobiliary tract and duodenal cancer sites in Germany and the United States in the early 21st century. Int J Cancer. 2018 Jul 15;143(2):324-32. doi: 10.1002/ijc.31322. Epub 2018 Mar 5. PMID: 29479701.
 
-Carr PR*, Alwers E*, Bienert S, **Weberpals J**, Kloor M, Brenner H, Hoffmeister M. Lifestyle factors and risk of sporadic colorectal cancer by microsatellite instability status: a systematic review and meta-analyses. Ann Oncol. 2018 Apr 1;29(4):825-34. doi: 10.1093/annonc/mdy059. PMID: 29438474.
+Carr PR\*, Alwers E\*, Bienert S, **Weberpals J**, Kloor M, Brenner H, Hoffmeister M. Lifestyle factors and risk of sporadic colorectal cancer by microsatellite instability status: a systematic review and meta-analyses. Ann Oncol. 2018 Apr 1;29(4):825-34. doi: 10.1093/annonc/mdy059. PMID: 29438474.
 
 **Weberpals J**, Jansen L, van Herk-Sukel MPP, Kuiper JG, Aarts MJ, Vissers PAJ, Brenner H. Immortal time bias in pharmacoepidemiological studies on cancer patient survival: empirical illustration for beta-blocker use in four cancers with different prognosis. Eur J Epidemiol. 2017 Nov;32(11):1019-31. doi: 10.1007/s10654-017-0304-5. Epub 2017 Sep 1. PMID: 28864947.
 
