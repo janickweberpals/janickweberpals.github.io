@@ -14,7 +14,7 @@ author_profile: true
 
 Graf RP, Fisher V, **Weberpals J**, Gjoerup O, Tierno MB, Huang RSP, Sayegh N, Lin DI, Raskina K, Schrock AB, Severson E, Haberberger JF, Ross JS, Creeden J, Levy MA, Alexander BM, MD, Oxnard GR, Agarwal N. Comparative Effectiveness of Immune Checkpoint Inhibitors vs. Chemotherapy by Tumor Mutational Burden in Metastatic Castration-Resistant Prostate Cancer. JAMA Netw Open. 2022;5(3):e225394. doi:10.1001/jamanetworkopen.2022.5394
 
-Loureiro H**\*, Becker T, Bauer-Mehren A, Ahmidi N*, **Weberpals J**\*. Artificial Intelligence for Prognostic Scores in Oncology: a Benchmarking Study. Front Artif Intell. 2021 Apr 16;4:625573. doi: 10.3389/frai.2021.625573. PMID: 33937744; PMCID: PMC8086599.
+Loureiro H\*\*, Becker T, Bauer-Mehren A, Ahmidi N\*, **Weberpals J**\*. Artificial Intelligence for Prognostic Scores in Oncology: a Benchmarking Study. Front Artif Intell. 2021 Apr 16;4:625573. doi: 10.3389/frai.2021.625573. PMID: 33937744; PMCID: PMC8086599.
 
 **Weberpals J**, Becker T, Davies J, Schmich F, Rüttinger D, Theis FJ, Bauer-Mehren A. Deep Learning-based Propensity Scores for Confounding Control in Comparative Effectiveness Research: A Large-scale, Real-world Data Study. Epidemiology. 2021 May 1;32(3):378-88. doi: 10.1097/EDE.0000000000001338. PMID: 33591049.
 
