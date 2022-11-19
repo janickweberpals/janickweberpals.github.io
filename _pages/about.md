@@ -23,7 +23,13 @@ My most recent projects centered around missing data approaches in EHR, prognost
 * **2018** - Board certification as specialized pharmacist in drug information, Germany
 * **2015** - Pharmacy degree (Registered Pharmacist), College of Pharmacy, Philipps-University Marburg, Germany 
 
-## Featured research project
+## Featured Research
+
+I was recently invited to present some of my research at the **FDA Sentinel Innovation Center Webinar** where I had the chance to talk about machine and deep learning to make causal predictions and inferences from electronic health records (EHR) data.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yglV1EGF3Fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I'm fascinated by neural networks and deep learning and the following paper highlights some of my thoughts around utilizing these methods for causal inference:
 
 > Weberpals J, Becker T, Davies J, Schmich F, Rüttinger D, Theis FJ, Bauer-Mehren A. Deep learning-based propensity scores for confounding control in comparative effectiveness research: A large-scale, real-world data study. **Epidemiology**. 2021 May 1;32(3):378-88.
 
