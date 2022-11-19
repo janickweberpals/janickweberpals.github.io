@@ -1,0 +1,83 @@
+---
+title: "Last updated `r format(Sys.Date(), '%d %B %y')`"
+output:
+  html_document:
+    number_sections: false
+    classoption: landscape
+---
+
+```{r setup, include = FALSE}
+# setup
+suppressPackageStartupMessages(library(tidyverse))
+suppressPackageStartupMessages(library(scholar))
+source(here::here("R", "_default_DT.R"))
+source(here::here("R", "_flextable_defaults.R"))
+googlesheets4::gs4_auth(email="janick.weberpals@gmail.com")
+sheet_url <- Sys.getenv("GOOGLESHEETS_URL")
+## google scholar id
+gs_id <- 'B59js_8AAAAJ&hl=en'
+## google scholar profile
+gs_profile <- scholar::get_profile(gs_id)
+# set chunk default options
+knitr::opts_chunk$set(dpi = 100, 
+                      echo = FALSE,
+                      fig.align = "left")
+```
+
+This section presents an overview of publications. The formatting and listing is compliant with the [specifications required](https://fa.hms.harvard.edu/faculty-medicine-cv-guidelines) for a faculty appointment at Harvard Medical School and ordered chronologically from earliest to most recent.
+
+For more information you can find my **orcid** website here: https://orcid.org/0000-0003-0404-7394
+
+## Peer-Reviewed Publications in Print or Other Media
+
+```{r, message=FALSE}
+# get publications from own database
+pubs <- googlesheets4::read_sheet(sheet_url, sheet = 'Manuscripts')
+```
+
+### Research investigations
+
+```{r}
+pubs %>% 
+  dplyr::filter(paragraph == "Research investigations") %>% 
+  dplyr::filter(status %in% c("Published", "Accepted")) %>% 
+  papers_tbl()
+```
+
+\* indicates co-first or co-senior authorship. <br>
+\*\* indicates that mentee is first or co-first author 
+
+## Non-Peer Reviewed Scientific or Medical Publications in Print or Other Media
+
+### Reviews, chapters, monographs and editorials
+
+```{r}
+pubs %>% 
+  dplyr::filter(paragraph == "Reviews chapters monographs and editorials (non peer-reviewed)") %>% 
+  dplyr::filter(status %in% c("Published", "Accepted")) %>% 
+  papers_tbl()
+```
+
+### Letters to the Editor
+```{r}
+pubs %>% 
+  dplyr::filter(paragraph == "Letters to the Editor  (non peer-reviewed)") %>% 
+  dplyr::filter(status %in% c("Published", "Accepted")) %>% 
+  papers_tbl()
+```
+
+## Thesis
+
+**Weberpals J.** Associations between β-blocker exposure and cancer prognosis: the role of immortal time bias and analytical approaches in pharmacoepidemiological studies on cancer patient survival. [Doctor Scientiarum Humanarum Dissertation], Medical Faculty of Heidelberg, Rupert Carola University Heidelberg, Germany; 2018
+
+## Abstracts, Poster Presentations and Exhibits Presented at Professional Meetings
+
+```{r}
+pubs %>% 
+  dplyr::filter(paragraph == "Abstracts Poster Presentations and Exhibits Presented at Professional Meetings") %>% 
+  dplyr::filter(
+    dplyr::between(year, lubridate::year(Sys.Date()) - 3, lubridate::year(Sys.Date())) &
+      If_abstract_published_manuscript == FALSE | 
+      manuscript_type %in% c("Co-author oral presentation", "Poster spotlight")) %>% 
+  papers_tbl()
+```

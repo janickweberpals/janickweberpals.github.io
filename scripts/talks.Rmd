@@ -1,0 +1,88 @@
+---
+title: "Last updated `r format(Sys.Date(), '%d %B %y')`"
+output:
+  html_document:
+    number_sections: false
+    classoption: landscape
+---
+
+```{r setup, include = FALSE}
+# setup
+suppressPackageStartupMessages(library(tidyverse))
+suppressPackageStartupMessages(library(scholar))
+source(here::here("R", "_default_DT.R"))
+source(here::here("R", "_flextable_defaults.R"))
+googlesheets4::gs4_auth(email="janick.weberpals@gmail.com")
+sheet_url <- Sys.getenv("GOOGLESHEETS_URL")
+## google scholar id
+gs_id <- 'B59js_8AAAAJ&hl=en'
+## google scholar profile
+gs_profile <- scholar::get_profile(gs_id)
+# set chunk default options
+knitr::opts_chunk$set(dpi = 100, 
+                      echo = FALSE,
+                      fig.align = "left")
+```
+
+This section presents an overview of presentations and scientific talks The formatting and listing is compliant with the [specifications required](https://fa.hms.harvard.edu/faculty-medicine-cv-guidelines) for a faculty appointment at Harvard Medical School and ordered chronologically from earliest to most recent.
+
+## Report of Regional, National and International Invited Teaching and Presentations
+ 
+### Invited Presentations and Courses
+
+*Those presentations below sponsored by outside entities are so noted and the sponsor is identified in parentheses.*
+
+##### Regional
+```{r, eval=F}
+pubs %>% 
+  dplyr::filter(paragraph == "Report of Regional National and International Invited Teaching and Presentations") %>% 
+  dplyr::filter(manuscript_type == "Invited presentation") %>% 
+  dplyr::filter(geographics == "Regional")
+```
+None to display yet
+
+#### Regional Abstract Oral Presentations
+```{r, eval=F}
+pubs %>% 
+  dplyr::filter(paragraph == "Report of Regional National and International Invited Teaching and Presentations") %>% 
+  dplyr::filter(manuscript_type == "Abstract oral presentation") %>% 
+  dplyr::filter(geographics == "Regional")
+```
+None to display yet
+
+#### National
+```{r}
+pubs %>% 
+  dplyr::filter(paragraph == "Report of Regional National and International Invited Teaching and Presentations") %>% 
+  dplyr::filter(manuscript_type == "Invited presentation") %>% 
+  dplyr::filter(geographics == "National") %>% 
+  presentations_tbl()
+```
+
+#### National Abstract Oral Presentations
+```{r}
+pubs %>% 
+  dplyr::filter(paragraph == "Report of Regional National and International Invited Teaching and Presentations") %>% 
+  dplyr::filter(manuscript_type == "Abstract oral presentation") %>% 
+  dplyr::filter(geographics == "National") %>% 
+  presentations_tbl()
+```
+
+
+#### International
+```{r}
+pubs %>% 
+  dplyr::filter(paragraph == "Report of Regional National and International Invited Teaching and Presentations") %>% 
+  dplyr::filter(manuscript_type == "Invited presentation") %>% 
+  dplyr::filter(geographics == "International") %>% 
+  presentations_tbl()
+```
+
+#### International Abstract Oral Presentations
+```{r}
+pubs %>% 
+  dplyr::filter(paragraph == "Report of Regional National and International Invited Teaching and Presentations") %>% 
+  dplyr::filter(manuscript_type == "Abstract oral presentation") %>% 
+  dplyr::filter(geographics == "International") %>% 
+  presentations_tbl()
+```
