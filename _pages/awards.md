@@ -1,14 +1,14 @@
 ---
 permalink: /awards/
-title: "Awards & Honors"
+title: "Awards and Honors"
 author_profile: true
 ---
 
 * **_Summa cum laude_, Ph.D. thesis in Epidemiology** <br>
-Medical Faculty, Ruperto Carola University Heidelberg, Germany 
+Medical Faculty, Ruperto Carola University Heidelberg, Germany, 2019
 
 * **Stephan-Weiland Award (1st prize) - German Society for Epidemiology (DGEpi) e.V.** <br>
-Early career award for the publication “Immortal time bias in pharmacoepidemiological studies on cancer patient survival: empirical illustration for beta-blocker use in four cancers with different prognosis, European Journal of Epidemiology (2017), 32 (11), 1019-1031.”
+Early career award 2018 for the publication “Immortal time bias in pharmacoepidemiological studies on cancer patient survival: empirical illustration for beta-blocker use in four cancers with different prognosis, European Journal of Epidemiology (2017), 32 (11), 1019-1031.”
 
 * **Advancement Award - German Association for Medical Informatics, Biometry and Epidemiology (GMDS) e.V.** <br>
 Best national Ph.D. thesis in the category “Epidemiology” in 2018

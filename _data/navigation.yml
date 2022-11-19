@@ -1,19 +1,20 @@
 # main links 
 main:
-  # - title: "Scholarship"
-  #   url: /scholarship/
-    
+
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/
     
-  - title: "Awards \& Honors"
+  - title: "Awards and Honors"
     url: /awards/
 
   - title: "Teaching"
     url: /teaching/    
+    
+  - title: "CV"
+    url: /cv/
     
   #- title: "Portfolio"
     #url: /portfolio/
@@ -21,9 +22,9 @@ main:
   #- title: "Blog Posts"
     #url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
+  # - title: "Scholarship"
+  #   url: /scholarship/
+  
   #- title: "Personal"
     #url: /personal/
     
