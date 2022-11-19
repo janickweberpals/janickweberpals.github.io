@@ -4,31 +4,43 @@ title: "Scientific talks and conference contributions"
 author_profile: true
 ---
 
-## Conference talks
+## Talks (conferences and invited)
 
-**Landscape Analysis on Techniques to Deal with Missing Data in Longitudinal Healthcare Databases.** The presentation was part of the pre-conference educational course *Advanced Pharmacoepidemiology Methods: Mitigating Missing Data Concerns with External or Internal Subset Validation Populations.* 38th International Conference on Pharmacoepidemiology and Therapeutic Risk Management, Copenhagen, Denmark, 25th August 2022. [Educational conference talk]
+**Landscape Analysis on Techniques to Deal with Missing Data in Longitudinal Healthcare Databases.** <br>
+The presentation was part of the pre-conference educational course *Advanced Pharmacoepidemiology Methods: Mitigating Missing Data Concerns with External or Internal Subset Validation Populations.* 38th International Conference on Pharmacoepidemiology and Therapeutic Risk Management, Copenhagen, Denmark, August 25th 2022. [Educational conference talk]
 
-**Deep Learning on Electronic Health Records for Research in Pharmacoepidemiology: Examples from The Field of Oncology.** Invited speaker at FDA Sentinel Innovation and Methods Seminar series on September 7, 2022 (virtual).
+**Deep Learning on Electronic Health Records for Research in Pharmacoepidemiology: Examples from The Field of Oncology.** <br>
+Invited speaker at FDA Sentinel Innovation and Methods Seminar series on September 7th 2022 (Invited talk).
 
-**A Systematic Approach Towards Missing Lab Data in Electronic Health Records: A Case Study in Non-Small Cell Lung Cancer and Multiple Myeloma.** 37th International Conference on Pharmacoepidemiology & Therapeutic Risk Management 2021. Pharmacoepidemiol Drug Saf 2021; 30:36-36. [Oral presentation]
+**A Systematic Approach Towards Missing Lab Data in Electronic Health Records: A Case Study in Non-Small Cell Lung Cancer and Multiple Myeloma.** <br>
+37th International Conference on Pharmacoepidemiology & Therapeutic Risk Management 2021. Pharmacoepidemiol Drug Saf 2021; 30:36-36. [Oral presentation]
 
-**Deep learning-based propensity scores for confounding control in comparative effectiveness research: a large-scale real-world data study.** 36th International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Berlin, Germany, 2020. Pharmacoepidemiol Drug Saf 2020; 29(S3):382-383 [Oral presentation]
+**Deep learning-based propensity scores for confounding control in comparative effectiveness research: a large-scale real-world data study.** <br>
+36th International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Berlin, Germany, 2020. Pharmacoepidemiol Drug Saf 2020; 29(S3):382-383 [Oral presentation]
 
-**Real-world Data Science in Pharmaceutical Research & Early Drug Development.** Research & Development Career Day and Mentoring Event, German Cancer Research Center (DKFZ), Heidelberg, Germany, 6th December 2019.
+**Real-world Data Science in Pharmaceutical Research & Early Drug Development.** <br>
+Research & Development Career Day and Mentoring Event, German Cancer Research Center (DKFZ), Heidelberg, Germany, December 6th 2019. [Invited talk]
 
-**Cancer Pharmacoepidemiology: Researching the Diffusion of Innovation.** University of Florida, Gainesville, FL, USA, November 14th 2019. [Faculty candidate seminar presentation]
+**Cancer Pharmacoepidemiology: Researching the Diffusion of Innovation.** <br>
+University of Florida, Gainesville, FL, USA, November 14th 2019. [Faculty candidate seminar presentation]
 
-**Deep learning-based propensity score computation - A methodological approach to constructing synthetic control arms.** RPF/RiSE Symposium 2019. Basel, 2nd September 2019. [Oral presentation]
+**Deep learning-based propensity score computation - A methodological approach to constructing synthetic control arms.** <br>
+RPF/RiSE Symposium 2019. Basel, September 2nd  2019. [Oral presentation]
 
-**Deep Learning in Pharmacoepidemiology & Drug Development.** Mittwochsfortbildung [Clinical advanced training lecture], Department for Clinical Pharmacology and Pharmacoepidemiology, University hospital Heidelberg, Heidelberg, Germany, 9th August 2019. [Invited oral presentation]
+**Deep Learning in Pharmacoepidemiology & Drug Development.** <br>
+Mittwochsfortbildung [Clinical advanced training lecture], Department for Clinical Pharmacology and Pharmacoepidemiology, University hospital Heidelberg, Heidelberg, Germany, August 9th 2019. [Invited talk]
 
-**Deep Learning on Real-World Data: Overview and Application in Early Drug Development.** Symposium Clinical Pharmacology & Clinical Pharmacy. Reims, France, 29th June 2019. [Oral presentation]
+**Deep Learning on Real-World Data: Overview and Application in Early Drug Development.** <br>
+Symposium Clinical Pharmacology & Clinical Pharmacy. Reims, France, June 29th 2019. [Oral presentation]
 
-**High-dimensional real-world data: chances, challenges and exemplary use cases.** Global Data Science Conference (Roche internal). Baden-Baden, 26th June 2019. [Oral presentation]
+**High-dimensional real-world data: chances, challenges and exemplary use cases.** <br>
+Global Data Science Conference (Roche internal). Baden-Baden, June 26th 2019. [Oral presentation]
 
-**Deep Learning-based Propensity Score Computation: Exemplary Cohort Study in Second Line Metastatic Cancer Patients Treated with Cancer Immunotherapy Versus Non-Cancer Immunotherapy.** 10th Workshop of the working group Pharmacoepidemiology of the German Society for Epidemiology (DGEpi). Berlin, 24th May 2019. [Oral presentation]
+**Deep Learning-based Propensity Score Computation: Exemplary Cohort Study in Second Line Metastatic Cancer Patients Treated with Cancer Immunotherapy Versus Non-Cancer Immunotherapy.** <br>
+10th Workshop of the working group Pharmacoepidemiology of the German Society for Epidemiology (DGEpi). Berlin, May 24th 2019. [Oral presentation]
 
-**Comparative performance of a modified landmark approach when no time of treatment data are available within oncological databases: exemplary cohort study among resected pancreatic cancer patients.** 9th Workshop of the working group Pharmacoepidemiology of the German Society for Epidemiology (DGEpi). Bremen, 8th June 2018. [Oral presentation]
+**Comparative performance of a modified landmark approach when no time of treatment data are available within oncological databases: exemplary cohort study among resected pancreatic cancer patients.** <br>
+9th Workshop of the working group Pharmacoepidemiology of the German Society for Epidemiology (DGEpi). Bremen, June 8th 2018. [Oral presentation]
 
 ## Posters and others
 
