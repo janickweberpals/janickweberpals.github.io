@@ -1,13 +1,16 @@
 # main links 
 main:
-  - title: "Scholarship"
-    url: /scholarship/
+  # - title: "Scholarship"
+  #   url: /scholarship/
     
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/
+    
+  - title: "Awards \& Honors"
+    url: /awards/
 
   - title: "Teaching"
     url: /teaching/    

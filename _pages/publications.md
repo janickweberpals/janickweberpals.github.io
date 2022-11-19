@@ -6,7 +6,8 @@ author_profile: true
 
 ## Peer-reviewed papers
 
-* indicates co-first or co-senior authorship.
+\* indicates co-first or co-senior authorship. <br>
+
 ** indicates that mentee is first or co-first author 
 
 **Weberpals J**, Roumpanis S, Barer Y, Ehrlich S, Jessop N, Pedotti R, Vaknin-Dembinsky A, Brill L, Chodick G, Muros-Le Rouzic E. Clinical outcomes of COVID-19 in patients with multiple sclerosis treated with ocrelizumab in the pre- and post-SARS-CoV-2 vaccination periods: insights from Israel. Multiple Sclerosis and Related Disorders, 2022, S. 104153
