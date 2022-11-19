@@ -11,7 +11,8 @@ The presentation was part of the pre-conference educational course *Advanced Pha
 [Link to recording](https://youtu.be/VgGZaGBK0Yo?t=313)
 
 **Deep Learning on Electronic Health Records for Research in Pharmacoepidemiology: Examples from The Field of Oncology.** <br>
-Invited speaker at FDA Sentinel Innovation and Methods Seminar series on September 7th 2022 (Invited talk).
+Invited speaker at FDA Sentinel Innovation and Methods Seminar series on September 7th 2022 [Invited talk].<br>
+[Link to recording](https://www.youtube.com/embed/yglV1EGF3Fs)
 
 **A Systematic Approach Towards Missing Lab Data in Electronic Health Records: A Case Study in Non-Small Cell Lung Cancer and Multiple Myeloma.** <br>
 37th International Conference on Pharmacoepidemiology & Therapeutic Risk Management 2021. Pharmacoepidemiol Drug Saf 2021; 30:36-36. [Oral presentation]
