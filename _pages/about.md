@@ -12,7 +12,7 @@ I'm a health data scientist and R/Python enthusiast and currently work as an [In
 
 ## Research interests
 
-My research interests focus on the development and application of machine and deep learning methods to improve causal inference from multimodal clinical data dimensions combining electronic health records (EHR), imaging data, unstructured notes, and administrative claims databases. Over the years, I have also developed deep domain expertise in the clinical fields of cancer research as well as cardiovascular medicine and neuroscience. I'm a big advocate of transparent and reproducible research (including the use of Github/GitLab) and have a passion for providing code and developing software to enable others to learn, grow and be impactful. To summarize:
+My research interests focus on the development and application of machine and deep learning methods to improve causal inference from multimodal clinical data dimensions combining electronic health records (EHR), imaging data, unstructured notes, and administrative claims databases. Over the years, I have also developed deep domain expertise in the clinical fields of cancer research as well as cardiovascular medicine and neuroscience. I'm a big advocate of transparent and reproducible research and have a passion for developing software to enable others to learn, grow and be impactful. To summarize:
 
 * Multimodal fusion deep learning (EHR, imaging, NLP, claims data)
 * Causal inference and comparative effectiveness research
