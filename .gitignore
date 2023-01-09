@@ -10,6 +10,7 @@
 .csv
 .sasbdat7
 .DS_Store
+*.DS_Store
 */.DS_Store
 .DS_Store/*
 
@@ -24,6 +25,7 @@
 
 # RStudio files
 .Rproj.user/
+.Rproj
 
 # produced vignettes
 vignettes/*.html
@@ -50,4 +52,3 @@ vignettes/*.pdf
 # don't submit report
 reports/*
 R
-scripts
