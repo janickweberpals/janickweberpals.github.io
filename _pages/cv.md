@@ -10,7 +10,8 @@ One page summary with most important steps of my career so far:
 
 <iframe src="/files/cv.pdf" height="600" width="900"></iframe>
 
-## Long version
+
+## Longer academic version in HMS format
 
 This is the academic version of my CV with all details on appointments, grants, talks and publications:
 
