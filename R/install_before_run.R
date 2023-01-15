@@ -1,0 +1,13 @@
+# install packages before running
+install.packages("here")
+install.packages("tidyverse")
+install.packages("kableExtra")
+install.packages("DT")
+install.packages("flextable")
+install.packages("ftExtra")
+install.packages("plotly")
+install.packages("pander")
+install.packages("scholar")
+install.packages("sessioninfo")
+install.packages("JCRImpactFactor")
+install.packages("RColorBrewer")
