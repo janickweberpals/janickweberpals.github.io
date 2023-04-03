@@ -4,12 +4,14 @@ title: "Publications"
 author_profile: true
 ---
 
-## Peer-reviewed papers
+## Peer-reviewed papers (sorted by date in descending order)
 
 \* indicates co-first or co-senior authorship. <br>
 ** indicates that mentee is first or co-first author 
 
-**Weberpals J**, Roumpanis S, Barer Y, Ehrlich S, Jessop N, Pedotti R, Vaknin-Dembinsky A, Brill L, Chodick G, Muros-Le Rouzic E. Clinical outcomes of COVID-19 in patients with multiple sclerosis treated with ocrelizumab in the pre- and post-SARS-CoV-2 vaccination periods: insights from Israel. Multiple Sclerosis and Related Disorders, 2022, S. 104153
+Jin Y, **Weberpals J**, Wang SV, Desai RJ, Merola D, Lin KJ. The Impact of Longitudinal Data- Completeness of Electronic Health Record Data on Prediction Performance of Clinical Risk Scores. J Clin Pharmacol Ther. 2023 (accepted)
+
+**Weberpals J**, Roumpanis S, Barer Y, Ehrlich S, Jessop N, Pedotti R, Vaknin-Dembinsky A, Brill L, Chodick G, Rouzic EM. Clinical outcomes of COVID-19 in patients with multiple sclerosis treated with ocrelizumab in the pre- and post-SARS-CoV-2 vaccination periods: Insights from Israel. Mult Scler Relat Disord. 2022 Dec;68:104153. doi: 10.1016/j.msard.2022.104153. Epub 2022 Aug 29. PMID: 36081277; PMCID: PMC9422340.
 
 Graf RP, Fisher V, **Weberpals J**, Gjoerup O, Tierno MB, Huang RSP, Sayegh N, Lin DI, Raskina K, Schrock AB, Severson E, Haberberger JF, Ross JS, Creeden J, Levy MA, Alexander BM, MD, Oxnard GR, Agarwal N. Comparative Effectiveness of Immune Checkpoint Inhibitors vs. Chemotherapy by Tumor Mutational Burden in Metastatic Castration-Resistant Prostate Cancer. JAMA Netw Open. 2022;5(3):e225394. doi:10.1001/jamanetworkopen.2022.5394
 
