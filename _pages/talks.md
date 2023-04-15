@@ -9,12 +9,12 @@ author_profile: true
 **Approaches to handling partially observed confounder data from electronic health records.** <br>
 Presentation at the 2023 Sentinel Innovation Day [Invited talk] <br>
 
-<iframe width="560" height="315" src="https://youtu.be/Dml_AP0ohTY?t=7375" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dml_AP0ohTY?start=7376" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Landscape Analysis on Techniques to Deal with Missing Data in Longitudinal Healthcare Databases.** <br>
 The presentation was part of the pre-conference educational course *Advanced Pharmacoepidemiology Methods: Mitigating Missing Data Concerns with External or Internal Subset Validation Populations.* 38th International Conference on Pharmacoepidemiology and Therapeutic Risk Management, Copenhagen, Denmark, August 25th 2022. [Educational conference talk] <br>
 
-<iframe width="560" height="315" src="https://youtu.be/VgGZaGBK0Yo?t=313" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VgGZaGBK0Yo?start=310" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Deep Learning on Electronic Health Records for Research in Pharmacoepidemiology: Examples from The Field of Oncology.** <br>
 Invited speaker at FDA Sentinel Innovation and Methods Seminar series on September 7th 2022 [Invited talk].<br>
