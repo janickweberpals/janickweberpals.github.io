@@ -6,13 +6,20 @@ author_profile: true
 
 ## Talks (conferences and invited)
 
+**Approaches to handling partially observed confounder data from electronic health records.** <br>
+Presentation at the 2023 Sentinel Innovation Day [Invited talk] <br>
+
+<iframe width="560" height="315" src="https://youtu.be/Dml_AP0ohTY?t=7375" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Landscape Analysis on Techniques to Deal with Missing Data in Longitudinal Healthcare Databases.** <br>
 The presentation was part of the pre-conference educational course *Advanced Pharmacoepidemiology Methods: Mitigating Missing Data Concerns with External or Internal Subset Validation Populations.* 38th International Conference on Pharmacoepidemiology and Therapeutic Risk Management, Copenhagen, Denmark, August 25th 2022. [Educational conference talk] <br>
-[Link to recording](https://youtu.be/VgGZaGBK0Yo?t=313)
+
+<iframe width="560" height="315" src="https://youtu.be/VgGZaGBK0Yo?t=313" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Deep Learning on Electronic Health Records for Research in Pharmacoepidemiology: Examples from The Field of Oncology.** <br>
 Invited speaker at FDA Sentinel Innovation and Methods Seminar series on September 7th 2022 [Invited talk].<br>
-[Link to recording](https://www.youtube.com/embed/yglV1EGF3Fs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yglV1EGF3Fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **A Systematic Approach Towards Missing Lab Data in Electronic Health Records: A Case Study in Non-Small Cell Lung Cancer and Multiple Myeloma.** <br>
 37th International Conference on Pharmacoepidemiology & Therapeutic Risk Management 2021. Pharmacoepidemiol Drug Saf 2021; 30:36-36. [Oral presentation]
