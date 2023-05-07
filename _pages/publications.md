@@ -7,9 +7,11 @@ author_profile: true
 ## Peer-reviewed papers (sorted by date in descending order)
 
 \* indicates co-first or co-senior authorship. <br>
-** indicates that mentee is first or co-first author 
+** indicates that mentee is first or co-first author
 
-Jin Y, **Weberpals J**, Wang SV, Desai RJ, Merola D, Lin KJ. The Impact of Longitudinal Data- Completeness of Electronic Health Record Data on Prediction Performance of Clinical Risk Scores. Clin Pharmacol Ther. 2023 (accepted)
+Sondhi A\*, **Weberpals J**\*, Yerram P, Jiang C, Taylor MD, Samant M, Cherng S. A Systematic Approach Towards Missing Lab Data in Electronic Health Records: A Case Study in Non-Small Cell Lung Cancer and Multiple Myeloma. CPT Pharmacometrics Syst Pharmacol. 2023 (accepted)
+
+Jin Y, **Weberpals J**, Wang SV, Desai RJ, Merola D, Lin KJ. The Impact of Longitudinal Data-Completeness of Electronic Health Record Data on the Prediction Performance of Clinical Risk Scores. Clin Pharmacol Ther. 2023 Apr 7. doi: 10.1002/cpt.2901. Epub ahead of print. PMID: 37026443.
 
 **Weberpals J**, Roumpanis S, Barer Y, Ehrlich S, Jessop N, Pedotti R, Vaknin-Dembinsky A, Brill L, Chodick G, Rouzic EM. Clinical outcomes of COVID-19 in patients with multiple sclerosis treated with ocrelizumab in the pre- and post-SARS-CoV-2 vaccination periods: Insights from Israel. Mult Scler Relat Disord. 2022 Dec;68:104153. doi: 10.1016/j.msard.2022.104153. Epub 2022 Aug 29. PMID: 36081277; PMCID: PMC9422340.
 
