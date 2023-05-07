@@ -1,0 +1,199 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Twenty Seconds Resume/CV
+% LaTeX Template
+% Version 1.1 (8/1/17)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Carmine Spagnuolo (cspagnuolo@unisa.it) with major modifications by 
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[letterpaper]{twentysecondcv} % a4paper for A4
+
+%----------------------------------------------------------------------------------------
+%	 PERSONAL INFORMATION
+%----------------------------------------------------------------------------------------
+
+% If you don't need one or more of the below, just remove the content leaving the command, e.g. \cvnumberphone{}
+
+\profilepic{CV_pic.jpg} % Profile picture
+\cvname{Janick Weberpals, RPh, Ph.D.} % Your name
+\cvjobtitle{Health Data Scientist} % Job title/career
+\cvdate{Born 1989 in Germany, \newline Current location: Boston, MA} % Date of birth
+\cvmail{janick.weberpals@me.com} % Email address
+\cvnumberphone{+1 (857) 381-7865} % Phone number
+\cvsite{\href{https://linkedin.com/in/weberpals}{linkedin.com/in/weberpals}}
+\cvaddress{\href{https://janickweberpals.github.io}{janickweberpals.github.io}}
+
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	 ABOUT ME
+%----------------------------------------------------------------------------------------
+\aboutme{I'm a healthcare data scientist with 8+ years of experience in the design and analysis of large \textit{real-world} clinical database studies in both industry and academia. I'm passionate about the integration of various data modalities (EHR, claims, genomics, imaging, NLP) using deep learning to solve problems in healthcare and causal inference. In addition, I have gained deep clinical knowledge mainly in the fields of cancer but also other disease areas. I have (co-) authored 25+ peer-reviewed methodological and clinical publications and received several awards.} % To have no About Me section, just remove all the text and leave \aboutme{}
+%----------------------------------------------------------------------------------------
+%	 SKILLS
+%----------------------------------------------------------------------------------------
+
+% Skill bar section, each skill must have a value between 0 an 6 (float)
+\skills{
+{SAS/2}, 
+{SQL/4}, 
+{HPC, SLURM, Unix/4},
+{\LaTeX{}, Markdown, Quarto/5}, 
+{Python, Tensorflow, Keras/5}, 
+{Medical coding standards (ICD, etc.)/6},
+{R, RStudio, git/6}}
+
+%------------------------------------------------
+
+% Skill text section, each skill must have a value between 0 an 6
+%\skillstext{{lovely/4},{narcissistic/3}}
+
+%----------------------------------------------------------------------------------------
+
+\makeprofile % Print the sidebar
+
+%----------------------------------------------------------------------------------------
+%	 INTERESTS
+%----------------------------------------------------------------------------------------
+
+%\section{Interests}
+
+%\textit{I am strongly convinced that healthcare database analytics will change the way we research and practice healthcare}
+
+%----------------------------------------------------------------------------------------
+%	 EDUCATION
+%----------------------------------------------------------------------------------------
+
+%\section{Education}
+
+\subsection{Education}
+
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitem{2018-2020}{Postdoctoral Fellowship{\normalfont }}{Data Science, Roche Innovation Center, Germany}{\emph{Deep learning on electronic health record (EHR) data}}
+	\twentyitem{2015-2018}{Ph.D. Epidemiology {\normalfont}}{Medical Faculty, Heidelberg University, Germany}{Graduated with \emph{Summa cum laude} honors}
+	\twentyitem{2015-2018}{Board certification}{Bavarian Chamber of Pharmacists, Munich, Germany}{\emph{Specialized Pharmacist in Drug Information}}
+	\twentyitem{2010-2015}{Registered Pharmacist}{College of Pharmacy, Marburg University, Germany}{\emph{Pharmaceutical Sciences (PharmD)}}
+	%\twentyitem{2009}{High school}{Kaethe-Kollwitz High School, Bruchsal}{Specializing in Biotechnology and Bioinformatics}
+	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+%	 EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+%\section{Experience}
+
+\subsection{Professional Experience}
+
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitem{2022-}{Instructor in Medicine}{Harvard Medical School, Boston, MA, USA}{\href{https://connects.catalyst.harvard.edu/Profiles/display/Person/210515}{\textit{Faculty at Harvard Medical School \& Brigham and Women's Hospital}} leading innovative projects together with FDA and oher major institutions utilizing advanced analytics to leverage routinely collected healthcare data (EHR, imaging, claims) to generate high-quality real-world evidence studies of medical interventions. Co-PI of a Sentinel Innovation Center project developing principled methods and \href{https://janickweberpals.gitlab-pages.partners.org/smdi}{\textit{smdi \ExternalLink R package}} to handle missing covariates in causal inference.
+}
+	
+	\twentyitem{2020-2022}{Data Scientist}{Hoffmann-La Roche/Genentech, Basel, Switzerland}{Awarded "Exceptional Performance" in 2021. Led and collaborated in cross-functional teams to implement and validate NLP models and real-world database studies which supported and expedited clinical teams with regulatory drug applications in oncology and neuroscience. Contributed to 
+	\href{https://www.rstudio.com/resources/rstudioconf-2020/flatironkitchen-how-we-overhauled-a-frankensteinian-sql-workflow-with-the-tidyverse/}{R package development} which increased speed, transparency and validity of RWE projects.}
+	%\twentyitem{2019-now}{Adjunct lecturer}{Medical Faculty, University of Heidelberg, Germany}{Conceptualization and teaching of an introductory course on design and biases of epidemiological studies for Biostatistics M.Sc. students.}
+	
+	\twentyitem{2018-2020}{Postdoctoral Fellow in Deep Learning on EHR}{Roche, Munich, Germany}{Implemented \href{https://journals.lww.com/epidem/Abstract/2021/05000/Deep_Learning_based_Propensity_Scores_for.10.aspx}{\textit{deep learning methods \ExternalLink}} to analyze large EHR databases which supported protocol design and strategic decision making in early-stage single-arm clinical trials.}
+	
+	\twentyitem{2015-2018}{Doctoral Researcher}{German Cancer Research Center, Heidelberg, Germany}{Managed, QC'ed and analyzed oncological databases. Partnered with (inter)national cancer registries which resulted in 14 peer-reviewed publications impacting \href{https://academic.oup.com/eurheartj/article/39/43/3896/4962197?login=false}{\textit{public cancer survival surveillance \ExternalLink.}}}
+	
+	\twentyitem{2014-2015}{Research Scholar}{University of Florida, Gainesville, FL, USA}{Contributed to a multidisciplinary project to develop an EHR-based \href{https://academic.oup.com/ajhp/article-abstract/76/13/953/5519762?redirectedFrom=fulltext}{\textit{predictive risk model \ExternalLink}} to prevent adverse events among hospitalized patients. The model was implemented  in select US hospitals.}
+	%\twentyitem{2014}{Pharmacist}{St. Georg Community Pharmacy, Bruchsal, Germany}{Worked as practicing pharmacist in a community pharmacy and successfully led a QMS audit.}
+	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+%	 AWARDS
+%----------------------------------------------------------------------------------------
+
+%\section{Awards}
+
+\subsection{Selected Awards \& Honors \small(full list: \href{https://janickweberpals.github.io/awards}{\textit{janickweberpals.github.io/awards}})}
+
+\begin{twentyshort} % Environment for a short list with no descriptions
+	\twentyitemshort{2018}{Stephan-Weiland Award (German Society for Epidemiology)}
+	\twentyitemshort{2018}{Advancement Award for best Ph.D. thesis in Epidemiology (German Association for Medical Informatics, Biometry and Epidemiology)}
+	\twentyitemshort{2017}{Poster Award (Helmholtz International Graduate School)}
+	\twentyitemshort{2016 \& 17}{International Society for Pharmacoepidemiology (ISPE) Scholarship}
+	%\twentyitemshort{2016}{Fellow (Helmholtz International Graduate School)}
+	%\twentyitemshort{2009}{Third Top Graduate (Biotechnology High-School Award)}
+	%\twentyitemshort{<dates>}{<title/description>}
+\end{twentyshort}
+
+%----------------------------------------------------------------------------------------
+%	 TALKS
+%----------------------------------------------------------------------------------------
+
+%\subsection{Selected Talks \& Outreach \small(full list: \href{https://janickweberpals.github.io/talks}{\textit{janickweberpals.github.io/talks}})}
+
+%Causal Inference with US EHR Data: Practical Solutions to Recurrent Methodologic Challenges. Invited panelist together with Sebastian Schneeweiss, Jeremy Rassen, Rebecca Hubbard and Richard Wyss. International Society for Health Economics and Outcomes Research (ISPOR) Annual Meeting, Boston, MA, 2023
+
+%----------------------------------------------------------------------------------------
+%	 PUBLICATIONS
+%----------------------------------------------------------------------------------------
+
+%\section{Publications}
+
+\subsection{Selected publications \small(full list: \href{https://janickweberpals.github.io/publications}{\textit{janickweberpals.github.io/publications}})}
+
+
+\underline{Weberpals J}, Becker T, Schmich F, Ruettinger D, Theis FJ, Bauer-Mehren A. Deep learning-based propensity scores for confounding control in comparative effectiveness research: a large-scale real-world data study. \textbf{Epidemiology} (2021).%, 32(3):378-388.
+
+Loureiro H, Becker T, Bauer-Mehren A, Ahmidi N, \underline{Weberpals J}. Artificial Intelligence for Prognostic Scores in Oncology: a benchmarking study. \textbf{Frontiers in Artificial Intelligence} (2021). %, 4, 9.
+
+\underline{Weberpals J}, Jansen L, Muller OJ, Brenner H. Long-term heart-specific mortality among 347 476 breast cancer patients treated with radiotherapy or chemotherapy: a registry-based cohort study. \textbf{Eur Heart J} (2018).
+
+%\begin{twentyshort} % Environment for a short list with no descriptions
+	%\twentyitemshort{<dates>}{<title/description>}
+%\end{twentyshort}
+
+
+%----------------------------------------------------------------------------------------
+%	 OTHER INFORMATION
+%----------------------------------------------------------------------------------------
+
+%\section{Other information}
+%
+%\subsection{Review}
+%
+%Alice approaches Wonderland as an anthropologist, but maintains a strong sense of noblesse oblige that comes with her class status. She has confidence in her social position, education, and the Victorian virtue of good manners. Alice has a feeling of entitlement, particularly when comparing herself to Mabel, whom she declares has a ``poky little house," and no toys. Additionally, she flaunts her limited information base with anyone who will listen and becomes increasingly obsessed with the importance of good manners as she deals with the rude creatures of Wonderland. Alice maintains a superior attitude and behaves with solicitous indulgence toward those she believes are less privileged.
+
+%----------------------------------------------------------------------------------------
+%	 SECOND PAGE EXAMPLE
+%----------------------------------------------------------------------------------------
+
+%\newpage % Start a new page
+
+%\makeprofile % Print the sidebar
+
+%\section{Other information}
+
+%\subsection{Review}
+
+%Alice approaches Wonderland as an anthropologist, but maintains a strong sense of noblesse oblige that comes with her class status. She has confidence in her social position, education, and the Victorian virtue of good manners. Alice has a feeling of entitlement, particularly when comparing herself to Mabel, whom she declares has a ``poky little house," and no toys. Additionally, she flaunts her limited information base with anyone who will listen and becomes increasingly obsessed with the importance of good manners as she deals with the rude creatures of Wonderland. Alice maintains a superior attitude and behaves with solicitous indulgence toward those she believes are less privileged.
+
+%\section{Other information}
+
+%\subsection{Review}
+
+%Alice approaches Wonderland as an anthropologist, but maintains a strong sense of noblesse oblige that comes with her class status. She has confidence in her social position, education, and the Victorian virtue of good manners. Alice has a feeling of entitlement, particularly when comparing herself to Mabel, whom she declares has a ``poky little house," and no toys. Additionally, she flaunts her limited information base with anyone who will listen and becomes increasingly obsessed with the importance of good manners as she deals with the rude creatures of Wonderland. Alice maintains a superior attitude and behaves with solicitous indulgence toward those she believes are less privileged.
+
+%----------------------------------------------------------------------------------------
+
+\end{document} 
