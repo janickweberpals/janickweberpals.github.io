@@ -15,7 +15,7 @@ Sebastian Schneeweiss, Jeremy Rassen, Rebecca Hubbard and Richard Wyss.
 International Society for Health Economics and Outcomes Research (ISPOR)
 Annual Meeting, Boston, MA (2023)
 
-![](images/ispor2023.jpg){width="500"}
+![](images/ispor2023.jpg)
 
 **Approaches to handling partially observed confounder data from
 electronic health records.** <br> Presentation at the 2023 Sentinel
