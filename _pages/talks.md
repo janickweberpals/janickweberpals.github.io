@@ -9,13 +9,11 @@ editor_options:
 
 ## Talks (conferences and invited)
 
-**Issues and Solutions When Estimating Treatment Effects Using US
-Electronic Health Record Data**. Invited panelist together with
+[**Issues and Solutions When Estimating Treatment Effects Using US
+Electronic Health Record Data**](https://www.ispor.org/conferences-education/conferences/upcoming-conferences/ispor-2023/program/program/paper/intl2023-3720/15893/316-closing-plenary-issues-and-solutions-when-estimating-treatment-effects-using-us-electronic-health-record-data). Invited panelist together with
 Sebastian Schneeweiss, Jeremy Rassen, Rebecca Hubbard and Richard Wyss.
 International Society for Health Economics and Outcomes Research (ISPOR)
 Annual Meeting, Boston, MA (2023)
-
-![](images/ispor2023.jpg)
 
 **Approaches to handling partially observed confounder data from
 electronic health records.** <br> Presentation at the 2023 Sentinel
