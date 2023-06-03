@@ -293,34 +293,6 @@
 	}\\
 }
 
-\newcommand{\makenewprofile}{
-    \begin{tikzpicture}[remember picture,overlay]
-        \node [rectangle, fill=sidecolor, anchor=north, minimum width=8.25cm, 
-               minimum height=\paperheight+1cm] (box) at (-5cm,0.5cm){};
-    \end{tikzpicture}
-
-%------------------------------------------------
-
-\begin{textblock}{6}(0.3, 0.2)
-        
-    %------------------------------------------------
-
-    %{\normalsize\color{mainblue}\cvname}
-
-    %-------------------------------------------
-    \vspace{4mm}
-    %-------------------------------------------
-    \profilesection{name}\\
-    
-    \name{whatever you want to add to this part}\\          
-    \nametext
-    \scriptsize
-
-    %------------------------------------------------
-        
-\end{textblock}
-}
-
 %----------------------------------------------------------------------------------------
 %	 MARGINS AND LINKS
 %----------------------------------------------------------------------------------------
