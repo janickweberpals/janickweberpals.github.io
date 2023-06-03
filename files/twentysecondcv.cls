@@ -178,10 +178,11 @@
 		\renewcommand{\arraystretch}{1.6}
 		\begin{tabular}{p{0.5cm} @{\hskip 0.5cm}p{5cm}}
 			\ifthenelse{\equal{\cvdate}{}}{}{\textsc{\Large\icon{\Info}} & \cvdate\\}
-			\ifthenelse{\equal{\cvaddress}{}}{}{\textsc{\Large\icon{\Letter}} & \cvaddress\\}
+			\ifthenelse{\equal{\cvmail}{}}{}{\textsc{\large\icon{@}} & \href{mailto:\cvmail}{\cvmail}\\}
 			\ifthenelse{\equal{\cvnumberphone}{}}{}{\textsc{\Large\icon{\Telefon}} & \cvnumberphone\\}
+			\ifthenelse{\equal{\cvaddress}{}}{}{\textsc{\Large\icon{\Letter}} & \cvaddress\\}
 			\ifthenelse{\equal{\cvsite}{}}{}{\textsc{\Large\icon{\Mundus}} & \cvsite\\}
-			\ifthenelse{\equal{\cvmail}{}}{}{\textsc{\large\icon{@}} & \href{mailto:\cvmail}{\cvmail}}
+			
 		\end{tabular}
 
 		%------------------------------------------------
@@ -290,6 +291,34 @@
 	#1&\parbox[t]{0.83\textwidth}{%
 		#2%
 	}\\
+}
+
+\newcommand{\makenewprofile}{
+    \begin{tikzpicture}[remember picture,overlay]
+        \node [rectangle, fill=sidecolor, anchor=north, minimum width=8.25cm, 
+               minimum height=\paperheight+1cm] (box) at (-5cm,0.5cm){};
+    \end{tikzpicture}
+
+%------------------------------------------------
+
+\begin{textblock}{6}(0.3, 0.2)
+        
+    %------------------------------------------------
+
+    %{\normalsize\color{mainblue}\cvname}
+
+    %-------------------------------------------
+    \vspace{4mm}
+    %-------------------------------------------
+    \profilesection{name}\\
+    
+    \name{whatever you want to add to this part}\\          
+    \nametext
+    \scriptsize
+
+    %------------------------------------------------
+        
+\end{textblock}
 }
 
 %----------------------------------------------------------------------------------------
