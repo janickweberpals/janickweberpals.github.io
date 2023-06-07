@@ -15,13 +15,14 @@ editor_options:
 
 <iframe width="725" height="440.6641" class="html" src="https://drugepi.gitlab-pages.partners.org/NESS2023/ness2023.html#/title-slide"></iframe>
 
+<br>
 [**Issues and Solutions When Estimating Treatment Effects Using US
 Electronic Health Record Data**](https://www.ispor.org/conferences-education/conferences/upcoming-conferences/ispor-2023/program/program/paper/intl2023-3720/15893/316-closing-plenary-issues-and-solutions-when-estimating-treatment-effects-using-us-electronic-health-record-data). Invited panelist together with
 Sebastian Schneeweiss, Jeremy Rassen, Rebecca Hubbard and Richard Wyss.
 International Society for Health Economics and Outcomes Research (ISPOR)
 Annual Meeting, Boston, MA (2023)
 
-<img src="./images/ispor2023.jpg" alt= “” width="560" height="315">
+![](images/ispor2023.jpg){width="560"}
 
 **Approaches to handling partially observed confounder data from
 electronic health records.** <br> Presentation at the 2023 Sentinel
