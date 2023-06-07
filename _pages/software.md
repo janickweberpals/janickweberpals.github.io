@@ -8,13 +8,13 @@ author_profile: true
 
 Partially observed covariates are a common challenge in the analysis of electronic health records. Backed by large-scale simulations, this package eases the implementation of routine missing data checks to characterize the underlying missingness and make informed decisions about the appropriate analytical choice for your study.
 
-![](./images/smdi_hexagon.png){width="50%"}
+<img src="./images/smdi_hexagon.png" alt= “” width="300" height="315">
 
 - [Link](https://janickweberpals.gitlab-pages.partners.org/smdi/index.html) to package website
 
 - Package presentation at the New England Statistics Symposium 2023:
 
-<iframe width="560" height="315" class="html" src="https://drugepi.gitlab-pages.partners.org/NESS2023/ness2023.html#/title-slide"></iframe>
+<iframe width="725" height="440.6641" class="html" src="https://drugepi.gitlab-pages.partners.org/NESS2023/ness2023.html#/title-slide"></iframe>
 
 
 ## `autoencoderPS` - An autoencoder-based propensity score for causal inference

@@ -18,7 +18,7 @@ My research interests focus on the development and application of machine and de
 * Causal inference and comparative effectiveness research
 * Cancer research/oncology
 * Transparency and reproducibility in research methods
-* [Software development](https://janickweberpals.github.io/awards/) in quantitative research
+* [Software development](https://janickweberpals.github.io/software/) in quantitative research
 
 I was recently invited to present some of my research at the **FDA Sentinel Innovation Center Webinar** where I had the chance to talk about some prior research which combines most of the above listed interests:
 
