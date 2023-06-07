@@ -8,8 +8,6 @@ author_profile: true
 
 Partially observed covariates are a common challenge in the analysis of electronic health records. Backed by large-scale simulations, this package eases the implementation of routine missing data checks to characterize the underlying missingness and make informed decisions about the appropriate analytical choice for your study.
 
-![](images/smdi_hexagon.png){width="222"}
-
 -   [Link](https://janickweberpals.gitlab-pages.partners.org/smdi/index.html) to package website
 
 -   Package presentation at the New England Statistics Symposium 2023:
