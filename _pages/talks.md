@@ -7,13 +7,22 @@ editor_options:
     wrap: 72
 ---
 
-## Talks (conferences and invited)
+## Talks & Outreach (conferences and invited)
 
-[**Issues and Solutions When Estimating Treatment Effects Using US
-Electronic Health Record Data**](https://www.ispor.org/conferences-education/conferences/upcoming-conferences/ispor-2023/program/program/paper/intl2023-3720/15893/316-closing-plenary-issues-and-solutions-when-estimating-treatment-effects-using-us-electronic-health-record-data). Invited panelist together with
+**Characterizing Missing Data Processes in EHR Data.** FDA SIC All-Center Leadership Meeting, June 7, 2023 (virtual)
+
+**smdi: An R package to perform routine structural missing data investigations in real-world data.** 36th New England Statistics Symposium, Boston University, Boston, MA
+
+<iframe width="725" height="440.6641" class="html" src="https://drugepi.gitlab-pages.partners.org/NESS2023/ness2023.html#/title-slide"></iframe>
+
+<br>
+
+**Issues and Solutions When Estimating Treatment Effects Using US
+Electronic Health Record Data**. Invited panelist together with
 Sebastian Schneeweiss, Jeremy Rassen, Rebecca Hubbard and Richard Wyss.
 International Society for Health Economics and Outcomes Research (ISPOR)
-Annual Meeting, Boston, MA (2023)
+Annual Meeting, Boston, MA (2023). [More information]((https://www.ispor.org/conferences-education/conferences/upcoming-conferences/ispor-2023/program/program/paper/intl2023-3720/15893/316-closing-plenary-issues-and-solutions-when-estimating-treatment-effects-using-us-electronic-health-record-data))
+
 
 **Approaches to handling partially observed confounder data from
 electronic health records.** <br> Presentation at the 2023 Sentinel

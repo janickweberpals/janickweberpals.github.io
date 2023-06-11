@@ -12,13 +12,13 @@ I'm a health data scientist and R/Python enthusiast and currently work as an [In
 
 ## Research interests
 
-My research interests focus on the development and application of machine and deep learning methods to improve causal inference from multimodal clinical data dimensions combining electronic health records (EHR), imaging data, unstructured notes, and administrative claims databases. Over the years, I have also developed deep domain expertise in the clinical fields of cancer research as well as cardiovascular medicine and neuroscience. I'm a big advocate of transparent and reproducible research and have a passion for developing software to enable others to learn, grow and be impactful. To summarize:
+My research interests focus on the development and application of machine and deep learning methods to improve causal inference from multimodal clinical data dimensions combining electronic health records (EHR), imaging data, unstructured notes, and administrative claims databases. Over the years, I have also developed deep domain expertise in the clinical fields of cancer research as well as cardiovascular medicine and neuroscience. I'm a big advocate of transparent and reproducible research and have a passion for developing software to enable others to learn, grow and be impactful. At a glance:
 
-* Multimodal fusion deep learning (EHR, imaging, NLP, claims data)
+* Multimodal fusion deep learning (EHR, claims data, imaging, NLP)
 * Causal inference and comparative effectiveness research
 * Cancer research/oncology
-* Transparency and reproducibility
-* Software development in quantitative research
+* Transparency and reproducibility in research methods
+* [Software development](https://janickweberpals.github.io/software/) in quantitative research
 
 I was recently invited to present some of my research at the **FDA Sentinel Innovation Center Webinar** where I had the chance to talk about some prior research which combines most of the above listed interests:
 
@@ -33,16 +33,3 @@ Some other recent projects centered around missing data approaches in EHR, progn
 * **2018** - Board certification as specialized pharmacist in drug information, Germany
 * **2015** - Pharmacy degree (Registered Pharmacist), College of Pharmacy, Philipps-University Marburg, Germany 
 
-## Software development
-
-I'm fascinated by neural networks and deep learning and the following paper highlights some of my thoughts around utilizing these methods for causal inference:
-
-> Weberpals J, Becker T, Davies J, Schmich F, Rüttinger D, Theis FJ, Bauer-Mehren A. Deep learning-based propensity scores for confounding control in comparative effectiveness research: A large-scale, real-world data study. **Epidemiology**. 2021 May 1;32(3):378-88.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ULX5usCw1js" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-The development and analysis code published in the aforementioned article "Deep learning-based propensity scores for confounding control in comparative effectiveness research: A large-scale, real-world data study" (Weberpals et al., Epidemiology, 2021) can be accessed on the following **Github repository**:
-
-> [https://github.com/janickweberpals/autoencoderPS](https://github.com/janickweberpals/autoencoderPS)
-
-The computing code used in this study is available as Python Jupyter Markdown scripts (.html) as supplementary material. All of the analyses described in the article were performed in R version 3.2.2. The PCA and autoencoder training was performed using sckit-learn and Keras with Tensorflow backend in Python version 3.6.0, respectively. The code that was used for the simulation is available as Rmarkdown.
