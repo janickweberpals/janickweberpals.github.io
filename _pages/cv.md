@@ -6,7 +6,7 @@ author_profile: true
 
 ## Short version
 
-One page summary with most important steps of my career so far:
+Two-page summary with most important steps of my career so far:
 
 <iframe src="/files/Resume_2_page.pdf" height="600" width="900"></iframe>
 

@@ -9,7 +9,9 @@ author_profile: true
 \* indicates co-first or co-senior authorship. <br>
 ** indicates that mentee is first or co-first author
 
-Sondhi A\*, **Weberpals J**\*, Yerram P, Jiang C, Taylor MD, Samant M, Cherng S. A Systematic Approach Towards Missing Lab Data in Electronic Health Records: A Case Study in Non-Small Cell Lung Cancer and Multiple Myeloma. CPT Pharmacometrics Syst Pharmacol. 2023 (accepted)
+Weberpals J, Wang SV. The FAIRification of research in real-world evidence: A practical introduction to reproducible analytic workflows using Git and R. Submitted and published as [pre-print on Authorea, doi: 10.22541/au.168923351.15832983/v1](https://www.authorea.com/doi/full/10.22541/au.168923351.15832983/v1)
+
+Sondhi A\*, **Weberpals J**\*, Yerram P, Jiang C, Taylor M, Samant M, Cherng S. A systematic approach towards missing lab data in electronic health records: A case study in non-small cell lung cancer and multiple myeloma. CPT Pharmacometrics Syst Pharmacol. 2023 Jun 15. doi: 10.1002/psp4.12998. Epub ahead of print. PMID: 37322818.
 
 Jin Y, **Weberpals J**, Wang SV, Desai RJ, Merola D, Lin KJ. The Impact of Longitudinal Data-Completeness of Electronic Health Record Data on the Prediction Performance of Clinical Risk Scores. Clin Pharmacol Ther. 2023 Apr 7. doi: 10.1002/cpt.2901. Epub ahead of print. PMID: 37026443.
 

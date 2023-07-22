@@ -6,7 +6,13 @@ author_profile: true
 
 ## `smdi` - An R package to perform routine structural missing data investigations in real-world data
 
-Partially observed covariates are a common challenge in the analysis of electronic health records. Backed by large-scale simulations, this package eases the implementation of routine missing data checks to characterize the underlying missingness and make informed decisions about the appropriate analytical choice for your study.
+Partially observed covariates are a common challenge in the analysis of electronic health records. Backed by large-scale simulations, this package eases and streamlines the implementation of routine missing data checks to characterize the underlying missingness and make informed decisions about the appropriate analytical choice for your study.
+
+-   Available on CRAN ![](https://cranlogs.r-pkg.org/badges/grand-total/smdi)
+
+```r
+install.packages("smdi")
+```
 
 -   [Link](https://janickweberpals.gitlab-pages.partners.org/smdi/index.html) to package website
 
