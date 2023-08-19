@@ -10,10 +10,9 @@ output:
 # setup
 suppressPackageStartupMessages(library(tidyverse))
 suppressPackageStartupMessages(library(scholar))
-source(here::here("R", "_default_DT.R"))
-source(here::here("R", "_flextable_defaults.R"))
 googlesheets4::gs4_auth(email="janick.weberpals@gmail.com")
 sheet_url <- Sys.getenv("GOOGLESHEETS_URL")
+
 ## google scholar id
 gs_id <- 'B59js_8AAAAJ&hl=en'
 ## google scholar profile
