@@ -25,6 +25,7 @@ Annual Meeting, Boston, MA (2023). [More information]((https://www.ispor.org/con
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GMPzmvNc6hE?si=2MTWP2yeC4F_i9NO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<br>
 
 **Approaches to handling partially observed confounder data from
 electronic health records.** <br> Presentation at the 2023 Sentinel
