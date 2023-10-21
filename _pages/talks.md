@@ -9,6 +9,11 @@ editor_options:
 
 ## Talks & Outreach (conferences and invited)
 
+Principled Approaches To Handle Partially Observed Confounder Data From Electronic Health Records: A Plasmode Simulation Study. 39th International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Halifax, Canada
+
+<iframe width="725" height="440.6641" src="https://www.youtube.com/embed/WE-kOBXtkMc?si=e7ybhKBQAWkjmCLX&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+
 **Characterizing Missing Data Processes in EHR Data.** FDA SIC All-Center Leadership Meeting, June 7, 2023 (virtual)
 
 **smdi: An R package to perform routine structural missing data investigations in real-world data.** 36th New England Statistics Symposium, Boston University, Boston, MA
