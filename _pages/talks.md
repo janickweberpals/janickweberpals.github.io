@@ -9,6 +9,8 @@ editor_options:
 
 ## Talks & Outreach (conferences and invited)
 
+- **Introducing smdi: An R package to perform structural missing data investigations for real-world evidence studies**. [R/Pharma Conference](https://rinpharma.com/publication/rinpharma_339/), Virtual presentation, 2023.
+
 - **Principled Approaches To Handle Partially Observed Confounder Data From Electronic Health Records: A Plasmode Simulation Study**. 39th International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Halifax, Canada
 
 <iframe width="725" height="440.6641" src="https://www.youtube.com/embed/WE-kOBXtkMc?si=e7ybhKBQAWkjmCLX&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
