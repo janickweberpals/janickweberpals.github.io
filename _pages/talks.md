@@ -9,7 +9,7 @@ editor_options:
 
 ## Talks & Outreach (conferences and invited)
 
-- **Introducing smdi: An R package to perform structural missing data investigations for real-world evidence studies**. [R/Pharma Conference](https://rinpharma.com/publication/rinpharma_339/), Virtual presentation, 2023.
+- **Introducing smdi: An R package to perform structural missing data investigations for real-world evidence studies**. [R/Pharma Conference](https://rinpharma.com/publication/rinpharma_340/), Virtual presentation, 2023.
 
 - **Principled Approaches To Handle Partially Observed Confounder Data From Electronic Health Records: A Plasmode Simulation Study**. 39th International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Halifax, Canada
 
@@ -21,7 +21,6 @@ editor_options:
 - **smdi: An R package to perform routine structural missing data investigations in real-world data.** 36th New England Statistics Symposium, Boston University, Boston, MA
 
 <iframe width="725" height="440.6641" class="html" src="https://drugepi.gitlab-pages.partners.org/NESS2023/ness2023.html#/title-slide"></iframe>
-
 <br>
 
 - **Issues and Solutions When Estimating Treatment Effects Using US
@@ -31,7 +30,6 @@ International Society for Health Economics and Outcomes Research (ISPOR)
 Annual Meeting, Boston, MA (2023). [More information]((https://www.ispor.org/conferences-education/conferences/past-conferences/ispor-2023/program/program/paper/intl2023-3720/15893/316-closing-plenary-issues-and-solutions-when-estimating-treatment-effects-using-us-electronic-health-record-data))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GMPzmvNc6hE?si=2MTWP2yeC4F_i9NO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <br>
 
 - **Approaches to handling partially observed confounder data from
