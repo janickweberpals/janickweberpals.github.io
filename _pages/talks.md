@@ -9,7 +9,13 @@ editor_options:
 
 ## Talks & Outreach (conferences and invited)
 
-- **Introducing smdi: An R package to perform structural missing data investigations for real-world evidence studies**. [R/Pharma Conference](https://rinpharma.com/publication/rinpharma_340/), Virtual presentation, 2023.
+- **Let's Git it started: An introduction to reproducible analytic workflows in real-world evidence using Git**. International Society of Pharmacoepidemiology, Virtual Webinar (Sponsored by the Student Council), 18 January 2024.
+
+<iframe width="725" height="440.6641" src="https://www.youtube.com/embed/bS4vWvhXK80?si=FGsJuU3_9kuHabUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- **Introducing smdi: An R package to perform structural missing data investigations for real-world evidence studies**. [R/Pharma Conference](https://rinpharma.com/publication/rinpharma_340/), Virtual Presentation, 2023.
+
+<iframe width="725" height="440.6641" src="https://www.youtube.com/embed/MyAiMS1qR-w?si=oyXhzBJ7F0PJnpwS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - **Principled Approaches To Handle Partially Observed Confounder Data From Electronic Health Records: A Plasmode Simulation Study**. 39th International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Halifax, Canada
 

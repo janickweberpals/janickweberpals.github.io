@@ -9,9 +9,11 @@ author_profile: true
 \* indicates co-first or co-senior authorship. <br>
 ** indicates that mentee is first or co-first author
 
+**Weberpals J**, Raman SR, Shaw PA, Lee H, Hammil BG, Toh D, Connolly JG, Dandreo KJ, Tian F, Liu W, Li Jie, Hernandez-Munos JJ, Glynn RJ, Desai RJ. smdi: An R package to perform routine structural missing data investigations in real-world data. JAMIA Open . 2024. (accepted)
+
 Desai RJ, Bradley M, Lee H, Eworuke E, **Weberpals J**, Wyss R, Schneeweiss S, Ball R. A simulation-based approach to assess the impact of unmeasured confounding when designing non-randomized database studies. Am J Epidemiol. 2023. (accepted)
 
-**Weberpals J**, Wang SV. The FAIRification of research in real-world evidence: A practical introduction to reproducible analytic workflows using Git and R. Submitted and published as [pre-print on Authorea, doi: 10.22541/au.168923351.15832983/v1](https://www.authorea.com/doi/full/10.22541/au.168923351.15832983/v1)
+**Weberpals J**, Wang SV. The FAIRification of research in real-world evidence: A practical introduction to reproducible analytic workflows using Git and R. Pharmacoepidemiol Drug Saf. Published online January 3, 2024. doi:10.1002/pds.5740
 
 Sondhi A\*, **Weberpals J**\*, Yerram P, Jiang C, Taylor M, Samant M, Cherng S. A systematic approach towards missing lab data in electronic health records: A case study in non-small cell lung cancer and multiple myeloma. CPT Pharmacometrics Syst Pharmacol. 2023 Jun 15. doi: 10.1002/psp4.12998. Epub ahead of print. PMID: 37322818.
 
