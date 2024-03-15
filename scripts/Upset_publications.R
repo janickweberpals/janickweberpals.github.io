@@ -18,4 +18,4 @@ x = list(
   `Prognostic/predictive models` = data |> filter(Tags == "Prognostic/predictive models") |> pull(Publication)
   )
 
-UpSetR::upset(fromList(x), nsets = 9, order.by = "freq")
+UpSetR::upset(fromList(x), nsets = 9, text.scale = 2, order.by = "freq")
