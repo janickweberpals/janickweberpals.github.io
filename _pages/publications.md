@@ -9,7 +9,9 @@ author_profile: true
 \* indicates co-first or co-senior authorship. <br>
 ** indicates that mentee is first or co-first author
 
-**Weberpals J**, Raman SR, Shaw PA, Lee H, Hammil BG, Toh D, Connolly JG, Dandreo KJ, Tian F, Liu W, Li Jie, Hernandez-Munos JJ, Glynn RJ, Desai RJ. smdi: An R package to perform routine structural missing data investigations in real-world data. JAMIA Open . 2024. (accepted)
+**Weberpals J**, Raman SR, Shaw PA, Lee H, Russo M, Hammil BG, Toh D, Connolly JG, Dandreo KJ, Tian F, Liu W, Li Jie, Hernandez-Munos JJ, Glynn RJ, Desai RJ. A Principled Approach to Characterize and Analyze Partially Observed Confounder Data From Electronic Health Records. Clin Epidemiol. 2024. (accepted)
+
+**Weberpals J**, Raman SR, Shaw PA, Lee H, Hammill BG, Toh S, Connolly JG, Dandreo KJ, Tian F, Liu W, Li J, Hernández-Muñoz JJ, Glynn RJ, Desai RJ. smdi: an R package to perform structural missing data investigations on partially observed confounders in real-world evidence studies. JAMIA Open. 2024 Jan 31;7(1):ooae008. doi: 10.1093/jamiaopen/ooae008. PMID: 38304248; PMCID: PMC10833461.
 
 Desai RJ, Bradley M, Lee H, Eworuke E, **Weberpals J**, Wyss R, Schneeweiss S, Ball R. A simulation-based approach to assess the impact of unmeasured confounding when designing non-randomized database studies. Am J Epidemiol. 2023. (accepted)
 
