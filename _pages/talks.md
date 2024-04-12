@@ -9,6 +9,12 @@ editor_options:
 
 ## Talks & Outreach (conferences and invited)
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9AJdyy33nF4YRPs06EDwN5WGVztQhD_wMBahc3M2_ehWr2HJMOvAyI-oa_tAygrm-aicEnuKxFT5C/embed?start=false&loop=false&delayms=3000" frameborder="0" width="725" height="440.6641" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<br>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSGKjV7UxqFXNWVKl7ZSWj8tJ6hCg24V4oRNZZXoGAKZcmvrU3dccPwAt_nX7qwVyppJ4Cp4s5XMZNE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="725" height="440.6641" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 - **Let's Git it started: An introduction to reproducible analytic workflows in real-world evidence using Git**. International Society of Pharmacoepidemiology, Virtual Webinar (Sponsored by the Student Council), 18 January 2024.
 
 <iframe width="725" height="440.6641" src="https://www.youtube.com/embed/bS4vWvhXK80?si=FGsJuU3_9kuHabUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
