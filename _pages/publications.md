@@ -9,7 +9,7 @@ author_profile: true
 \* indicates co-first or co-senior authorship. <br>
 ** indicates that mentee is first or co-first author
 
-**Weberpals J**, Shaw, PA, Lin KJ, Wyss R, Plasek JM, Zhou L, Ngan K, DeRamus T, Raman SR, Hammil BG, Lee H, Toh S, Connolly JG, Dandreo KJ, Tian F, Liu W, Li J, Hernández-Muñoz JJ, Schneeweiss S, Desai, RJ. High-dimensional multiple imputation (HDMI) for partially observed confounders including natural language processing-derived auxiliary covariates. [arXiv](https://arxiv.org/abs/2405.10925) (2024).
+**Weberpals J**, Shaw, PA, Lin KJ, Wyss R, Plasek JM, Zhou L, Ngan K, DeRamus T, Raman SR, Hammill BG, Lee H, Toh S, Connolly JG, Dandreo KJ, Tian F, Liu W, Li J, Hernández-Muñoz JJ, Schneeweiss S, Desai, RJ. High-dimensional multiple imputation (HDMI) for partially observed confounders including natural language processing-derived auxiliary covariates. [arXiv](https://arxiv.org/abs/2405.10925) (2024).
 
 **Weberpals J**, Raman SR, Shaw PA, Lee H, Russo M, Hammil BG, Toh D, Connolly JG, Dandreo KJ, Tian F, Liu W, Li Jie, Hernandez-Munos JJ, Glynn RJ, Desai RJ. A Principled Approach to Characterize and Analyze Partially Observed Confounder Data From Electronic Health Records. Clin Epidemiol. 2024. (accepted)
 
