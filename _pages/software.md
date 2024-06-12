@@ -4,6 +4,14 @@ title: "Software development"
 author_profile: true
 ---
 
+## Transparency and reproducibility
+
+**The Effective Statistician Podcast**: The FAIRification Of Research In Real-World Evidence: A Practical Introduction To Reproducible Analytic Workflows Using
+
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://podcastae8fac.podigee.io/370-new-episode/embed?context=external"></script>
+
+<https://podcastae8fac.podigee.io/370-new-episode>
+
 ## `smdi` - An R package to perform routine structural missing data investigations in real-world data
 
 Partially observed covariates are a common challenge in the analysis of electronic health records. Backed by large-scale simulations, this package eases and streamlines the implementation of routine missing data checks to characterize the underlying missingness and make informed decisions about the appropriate analytical choice for your study.
