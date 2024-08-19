@@ -6,7 +6,14 @@ modified: 19 November 2022
 
 ## Classroom teaching
 
-### ICPE pre-conference course on missing data, (Copenhagen, Denmark)
+### ICPE pre-conference course on transparency and reproducibility across the RWE lifecycle, (Berlin, Germany)
+
+Transparency and reproducibility are major prerequisites for conducting meaningful real-world evidence (RWE) studies that are fit for decision-making. With HARPER and RECORD-PE, many advances have been made in the documentation and reporting of study protocols, study parameters, and results, but the principles for computational reproducibility of study results, version control and sharing of analytic code in RWE are not yet as established as in other quantitative disciplines like computational biology and health informatics, where there are potentially fewer barriers.
+
+For more information and resources, see: 
+<https://janickweberpals.github.io/icpe-git-2024/>
+
+### ICPE pre-conference course on missing data (Copenhagen, Denmark)
 
 >**Landscape Analysis on Techniques to Deal with Missing Data in Longitudinal Healthcare Databases** <br>
 >**Session**: Advanced Pharmacoepidemiology Methods: Mitigating Missing Data Concerns with External or Internal Subset Validation Populations, August 2022 <br>
