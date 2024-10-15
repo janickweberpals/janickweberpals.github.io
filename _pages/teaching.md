@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-modified: 19 November 2022
+modified: 6 September 2024
 ---
 
 ## Classroom teaching

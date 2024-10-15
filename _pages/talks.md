@@ -9,6 +9,8 @@ editor_options:
 
 ## Talks & Outreach (conferences and invited)
 
+- **High-Dimensional Multiple Imputation (HDMI) For Partially Observed Confounders Including Natural Language Processing-Derived Auxiliary Covariates**. 40th International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Berlin, Germany. 27 August 2024.
+
 - **Let's Git it started: An introduction to reproducible analytic workflows in real-world evidence using Git**. International Society of Pharmacoepidemiology, Virtual Webinar (Sponsored by the Student Council), 18 January 2024.
 
 <iframe width="725" height="440.6641" src="https://www.youtube.com/embed/bS4vWvhXK80?si=FGsJuU3_9kuHabUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
