@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Janick Weberpals"
   avatar           : "profile.png"
-  bio              : "Instructor in Medicine at Harvard Medical School"
-  location         : "Boston, MA, United States"
-  employer         : "BWH & Harvard Medical School"
+  bio              : "Associate Director, Real-World Evidence"
+  location         : "Munich, Germany"
+  employer         : "AstraZeneca"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=B59js_8AAAAJ&hl=en"
-  email            : "jweberpals@bwh.harvard.edu"
+  #email            : "jweberpals@bwh.harvard.edu"
   researchgate     : 
   uri              :
   bitbucket        : 
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/playlist?list=PL3FOgnMshCFr_bGyTC85rIFA6OWHT1Grz"
   wikipedia        :
 
 

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a registered pharmacist, epidemiologist (Ph.D.), health data scientist (postdoc) and `R` enthusiast and currently work as an [Instructor in Medicine at Harvard Medical School](https://connects.catalyst.harvard.edu/Profiles/profile/202837271) and Investigator in the [Division of Pharmacoepidemiology and Pharmacoeconomics](https://www.drugepi.org) at Brigham and Women’s Hospital in Boston, USA.
+I'm a registered pharmacist, epidemiologist (Ph.D.), health data scientist (postdoc) and `R` enthusiast and currently work as an Associate Director for Real-World Evidence in the Oncology Data Science team at AstraZeneca.
 
 ## Research interests
 
