@@ -13,6 +13,8 @@ Transparency and reproducibility are major prerequisites for conducting meaningf
 For more information and resources, see: 
 <https://janickweberpals.github.io/icpe-git-2024/>
 
+<iframe width="725" height="440.6641" src="https://www.youtube.com/embed/Nvuo_eNR_0E?si=AflUt-G8msjZrgTA&amp;start=323" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### ICPE pre-conference course on missing data (Copenhagen, Denmark)
 
 >**Landscape Analysis on Techniques to Deal with Missing Data in Longitudinal Healthcare Databases** <br>
@@ -20,7 +22,7 @@ For more information and resources, see:
 
 This course introduced participants to advanced methods available to mitigate concerns around missing data in Real World Evidence studies. These include the identification and incorporation of data from external validation groups, the use of subset internal calibration groups, and the use of multiple imputation methods when data are believed to be missing at random. Real-world examples will be used across the lecture sessions to illustrate and connect different concepts.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VgGZaGBK0Yo?start=313" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="725" height="440.6641" src="https://www.youtube.com/embed/VgGZaGBK0Yo?start=313" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Introduction to Pharmacoepidemiology (Heidelberg, Germany)
 
