@@ -17,7 +17,7 @@ main:
     url: /software/
     
   - title: "CV"
-    url: /files/academic-cv.pdf
+    url: /files/academic_cv.pdf
     
   #- title: "Portfolio"
     #url: /portfolio/
