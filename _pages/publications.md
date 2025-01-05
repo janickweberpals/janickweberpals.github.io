@@ -9,15 +9,13 @@ author_profile: true
 \* indicates co-first or co-senior authorship. <br>
 ** indicates that mentee is first or co-first author
 
-**Weberpals J**, Shaw PA, Lin KJ, et al. *High-dimensional multiple imputation (HDMI) for partially observed confounders including natural language processing-derived auxiliary covariates. Am J Epidemiol. 2024 (Accepted).
+**Weberpals J**, Shaw, PA, Lin KJ, Wyss R, Plasek JM, Zhou L, Ngan K, DeRamus T, Raman SR, Hammill BG, Lee H, Toh S, Connolly JG, Dandreo KJ, Tian F, Liu W, Li J, Hernández-Muñoz JJ, Schneeweiss S, Desai, RJ. *High-dimensional multiple imputation (HDMI) for partially observed confounders including natural language processing-derived auxiliary covariates. Am J Epidemiol. 2024 (Accepted). [arXiv](https://arxiv.org/abs/2405.10925)
 
 **Weberpals J**, Wang SV. External Controls to Study Treatment Effects in Rare Diseases: Challenges and Future Directions. Clin Pharmacol Ther. 2024 Dec;116(6):1521-1524.
  
 Raman SR, Hammill BG, Shaw PA, et al., **Weberpals J**. Analyzing missingness patterns in real-world data using the SMDI toolkit: application to a linked EHR-claims pharmacoepidemiology study. BMC Med Res Methodol. 2024 Oct 19;24(1):246.
 
 Ackerman B, Gan RW, Meyer CS, Wang JR, Zhang Y, Hayden J, Mahoney G, Lund JL, **Weberpals J**, Schneeweiss S, Roose J. Measurement error and bias in real-world oncology endpoints when constructing external control arms. Frontiers in Drug Safety and Regulation. 2024 Jul 19;4:1423493.
-
-**Weberpals J**, Shaw, PA, Lin KJ, Wyss R, Plasek JM, Zhou L, Ngan K, DeRamus T, Raman SR, Hammill BG, Lee H, Toh S, Connolly JG, Dandreo KJ, Tian F, Liu W, Li J, Hernández-Muñoz JJ, Schneeweiss S, Desai, RJ. High-dimensional multiple imputation (HDMI) for partially observed confounders including natural language processing-derived auxiliary covariates. [arXiv](https://arxiv.org/abs/2405.10925) (2024).
 
 **Weberpals J**, Raman SR, Shaw PA, Lee H, Russo M, Hammil BG, Toh D, Connolly JG, Dandreo KJ, Tian F, Liu W, Li Jie, Hernandez-Munos JJ, Glynn RJ, Desai RJ. A Principled Approach to Characterize and Analyze Partially Observed Confounder Data From Electronic Health Records. Clin Epidemiol. 2024. (accepted)
 
