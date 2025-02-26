@@ -13,7 +13,7 @@ Wyss R, Yang J, Schneeweiss S, Plasek JM, Zhou L, Deramus T, **Weberpals J**, Ng
     
 Plasek JM, Wyss RD, **Weberpals J**, Yang J, Deramus T, Tsacogianis TN, Ngan K, Bessette LG, Lin KJ, Zhou L. Comparative ranking of marginal confounding impact of natural language processing-derived versus structured features in pharmacoepidemiology. Comput Biol Med. 2025.
     
-**Weberpals J**, Shaw, PA, Lin KJ, Wyss R, Plasek JM, Zhou L, Ngan K, DeRamus T, Raman SR, Hammill BG, Lee H, Toh S, Connolly JG, Dandreo KJ, Tian F, Liu W, Li J, Hernández-Muñoz JJ, Schneeweiss S, Desai, RJ. *High-dimensional multiple imputation (HDMI) for partially observed confounders including natural language processing-derived auxiliary covariates. Am J Epidemiol. 2024 (Accepted). [arXiv](https://arxiv.org/abs/2405.10925)
+**Weberpals J**, Shaw, PA, Lin KJ, Wyss R, Plasek JM, Zhou L, Ngan K, DeRamus T, Raman SR, Hammill BG, Lee H, Toh S, Connolly JG, Dandreo KJ, Tian F, Liu W, Li J, Hernández-Muñoz JJ, Schneeweiss S, Desai, RJ. *High-dimensional multiple imputation (HDMI) for partially observed confounders including natural language processing-derived auxiliary covariates. Am J Epidemiol. 2025. [arXiv version](https://arxiv.org/abs/2405.10925)
 
 **Weberpals J**, Wang SV. External Controls to Study Treatment Effects in Rare Diseases: Challenges and Future Directions. Clin Pharmacol Ther. 2024 Dec;116(6):1521-1524.
  
