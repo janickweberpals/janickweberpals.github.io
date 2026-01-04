@@ -2,7 +2,19 @@
 permalink: /software/
 title: "Software development"
 author_profile: true
+modified: 4 January 2026
 ---
+
+## `encore.analytics` - An R package with useful wrappers to streamline common workflows in the emulation of oncology trials
+
+In the realm of oncology research, emulating clinical trials using real-world data presents unique challenges, particularly when dealing with missing data and the need for careful propensity score analyses. The [encore.analytics](https://github.com/janickweberpals/encore.analytics) package addresses these challenges by providing a comprehensive toolkit that bridges the gap between multiple imputation and propensity score methodologies.
+
+-   Available on GitHub ![](https://github.com/janickweberpals/encore.analytics)
+
+```r
+install.packages("pak")
+pak::pak("janickweberpals/encore.analytics")
+```
 
 ## Transparency and reproducibility
 

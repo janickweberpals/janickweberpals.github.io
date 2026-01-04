@@ -2,12 +2,21 @@
 permalink: /talks/
 title: "Scientific talks and conference contributions"
 author_profile: true
+modified: 4 January 2026
 editor_options: 
   markdown: 
     wrap: 72
 ---
 
 ## Talks & Outreach (conferences and invited)
+
+- **Application of a Principled Framework to the Robust Emulation of the Checkmate649 Trial in First Line Gastric Cancer Using a Nationwide Electronic Health Record (EHR)-derived Database**. 41st International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Washington D.C., USA. 26 August 2025.
+
+<iframe width="725" height="440.6641" src="https://www.youtube.com/embed/VG1Cfjn3A2U?si=d4c5oxv9Fw58K1om&amp;start=918" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Empirical Comparison of Exposure Definitions using Real World Data in Oncological Trial Emulations with Combination Regimens: Emulation of the CheckMate649 Trial**. 41st International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Washington D.C., USA. 25 August 2025.
+
+<iframe width="725" height="440.6641" src="https://www.youtube.com/embed/SZpIEEipDUU?si=PMjtw9YVecd0d4Ma&amp;start=2701" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - **High-Dimensional Multiple Imputation (HDMI) For Partially Observed Confounders Including Natural Language Processing-Derived Auxiliary Covariates**. 40th International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Berlin, Germany. 27 August 2024.
 

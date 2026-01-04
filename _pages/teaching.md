@@ -1,12 +1,16 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-modified: 6 September 2024
+modified: 4 January 2026
 ---
 
 ## Classroom teaching
 
-### ICPE pre-conference course on transparency and reproducibility across the RWE lifecycle, (Berlin, Germany)
+### Let's Git it started: transparency and reproducibility across the RWE study lifecycle with HARPER, Git, GitHub Copilot and Quarto (Washington D.C., USA)
+
+<iframe width="725" height="440.6641" src="https://www.youtube.com/embed/_Go7es903BE?si=o9pepNQ72vRLe3ni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### ICPE pre-conference course on transparency and reproducibility across the RWE lifecycle (Berlin, Germany)
 
 Transparency and reproducibility are major prerequisites for conducting meaningful real-world evidence (RWE) studies that are fit for decision-making. With HARPER and RECORD-PE, many advances have been made in the documentation and reporting of study protocols, study parameters, and results, but the principles for computational reproducibility of study results, version control and sharing of analytic code in RWE are not yet as established as in other quantitative disciplines like computational biology and health informatics, where there are potentially fewer barriers.
 

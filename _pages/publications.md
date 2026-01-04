@@ -2,6 +2,7 @@
 permalink: /publications/
 title: "Publications"
 author_profile: true
+modified: 4 January 2026
 ---
 
 ## Peer-reviewed papers (sorted by date in descending order)
@@ -9,11 +10,19 @@ author_profile: true
 \* indicates co-first or co-senior authorship. <br>
 ** indicates that mentee is first or co-first author
 
-Wyss R, Yang J, Schneeweiss S, Plasek JM, Zhou L, Deramus T, **Weberpals J**, Ngan K, Tsacogianis TN, Lin KJ. Natural language processing for scalable feature engineering and ultra-high-dimensional confounding adjustment in healthcare database studies. medRxiv [Preprint]. 2025 (pre-print)
-    
+Desai RJ, **Weberpals J**, Pillai H, Ajao A, Desibhatla M, Hawrusik R, Hernández-Muñoz JJ, Jones C, Jones JT, Lii J, Li J, Lyons JG, Schoeplein R, Shebl FM, Toh S, Patorno E, Schneeweiss S. Strengthening inferential studies in the FDA Sentinel initiative: results from a methodological demonstration project. NPJ Digit Med. 2025 Dec 15. doi: 10.1038/s41746-025-02234-5. Epub ahead of print. PMID: 41398062.
+
+Kattinakere Sreedhara S, Schneeweiss S, D'Andrea E, **Weberpals J**, DiCesare EC, Patorno E, Tsacogianis T, Bradley M, Concato J, Wang SV. Using real-world data to predict findings of an ongoing phase IV trial: glycemic control of semaglutide versus standard of care. BMJ Open Diabetes Res Care. 2025 Oct 29;13(5):e005180. doi: 10.1136/bmjdrc-2025-005180. PMID: 41161770; PMCID: PMC12574359.
+
+Ackerman B, Gan RW, Zhang Y, Siddique J, Roose J, Lund JL, **Weberpals J**, Wang JR, Meyer CS, Hayden J, Sarsour K, Batavia AS. Regression calibration for time-to-event outcomes: mitigating bias due to measurement error in real-world endpoints. Epidemiol Methods. 2025 Sep 26;14(1):20250009. doi: 10.1515/em-2025-0009. PMID: 41019100; PMCID: PMC12464481.
+
+Wyss R, Yang J, Schneeweiss S, Plasek JM, Zhou L, Deramus T, **Weberpals J**, Ngan K, Tsacogianis TN, Lin KJ. Natural language processing for scalable feature engineering and ultra-high-dimensional confounding adjustment in healthcare database studies. J Biomed Inform. 2025 Sep;169:104882. doi: 10.1016/j.jbi.2025.104882. Epub 2025 Jul 19. PMID: 40691893.
+
+**Weberpals J**, Feuerriegel S, van der Schaar M, Kehl KL. Opportunities for causal machine learning in precision oncology. NEJM AI. 2025 Jul 24;2(8):AIp2500277.
+
 Plasek JM, Wyss RD, **Weberpals J**, Yang J, Deramus T, Tsacogianis TN, Ngan K, Bessette LG, Lin KJ, Zhou L. Comparative ranking of marginal confounding impact of natural language processing-derived versus structured features in pharmacoepidemiology. Comput Biol Med. 2025.
     
-**Weberpals J**, Shaw, PA, Lin KJ, Wyss R, Plasek JM, Zhou L, Ngan K, DeRamus T, Raman SR, Hammill BG, Lee H, Toh S, Connolly JG, Dandreo KJ, Tian F, Liu W, Li J, Hernández-Muñoz JJ, Schneeweiss S, Desai, RJ. *High-dimensional multiple imputation (HDMI) for partially observed confounders including natural language processing-derived auxiliary covariates. Am J Epidemiol. 2025. [arXiv version](https://arxiv.org/abs/2405.10925)
+**Weberpals J**, Shaw, PA, Lin KJ, Wyss R, Plasek JM, Zhou L, Ngan K, DeRamus T, Raman SR, Hammill BG, Lee H, Toh S, Connolly JG, Dandreo KJ, Tian F, Liu W, Li J, Hernández-Muñoz JJ, Schneeweiss S, Desai, RJ. High-dimensional multiple imputation (HDMI) for partially observed confounders including natural language processing-derived auxiliary covariates. Am J Epidemiol. 2025. [arXiv version](https://arxiv.org/abs/2405.10925)
 
 **Weberpals J**, Wang SV. External Controls to Study Treatment Effects in Rare Diseases: Challenges and Future Directions. Clin Pharmacol Ther. 2024 Dec;116(6):1521-1524.
  
