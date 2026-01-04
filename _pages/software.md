@@ -9,7 +9,7 @@ modified: 4 January 2026
 
 In the realm of oncology research, emulating clinical trials using real-world data presents unique challenges, particularly when dealing with missing data and the need for careful propensity score analyses. The [encore.analytics](https://github.com/janickweberpals/encore.analytics) package addresses these challenges by providing a comprehensive toolkit that bridges the gap between multiple imputation and propensity score methodologies.
 
--   Available on GitHub ![](https://github.com/janickweberpals/encore.analytics)
+-   Available on [GitHub](https://github.com/janickweberpals/encore.analytics)
 
 ```r
 install.packages("pak")
@@ -28,7 +28,7 @@ pak::pak("janickweberpals/encore.analytics")
 
 Partially observed covariates are a common challenge in the analysis of electronic health records. Backed by large-scale simulations, this package eases and streamlines the implementation of routine missing data checks to characterize the underlying missingness and make informed decisions about the appropriate analytical choice for your study.
 
--   Available on CRAN ![](https://cranlogs.r-pkg.org/badges/grand-total/smdi)
+-   Available on [CRAN](https://cranlogs.r-pkg.org/badges/grand-total/smdi)
 
 ```r
 install.packages("smdi")
