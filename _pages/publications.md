@@ -10,6 +10,10 @@ modified: 4 January 2026
 \* indicates co-first or co-senior authorship. <br>
 ** indicates that mentee is first or co-first author
 
+**Weberpals J**, Schneeweiss S, Kehl KL, Rivera DR, Mishra-Kalyani P, Lerro CC, Larkins E, Narayan P, Curley R, Hahn G, Anand P, Natanzon Y, Belli AJ, Wang CK, Collins J, Kish J, Espirito J, Robert NJ, Glynn RJ, Wang SV. Emulating Comparative Oncology Trials With Real-World Evidence Studies (ENCORE): Process Development and Methodological Considerations for Oncology Real-World Data. Clin Pharmacol Ther. 2026 Apr;119(4):881-890. doi: 10.1002/cpt.70208. Epub 2026 Jan 23. PMID: 41577635.
+
+Ackerman B, Gan RW, Zhang Y, Hayden J, Wang JR, Meyer CS, Siddique J, Lund JL, **Weberpals J**, Schneeweiss S, Stürmer T, Roose J, Nadeem O, Raje N, Ailawadhi S, Giri S, Hester L, Brayer J, Batavia AS. Quantitative bias analyses to address measurement error in time-to-event endpoints. Am J Epidemiol. 2026 Feb 6:kwag027. doi: 10.1093/aje/kwag027. Epub ahead of print. PMID: 41645621.
+
 Desai RJ, **Weberpals J**, Pillai H, Ajao A, Desibhatla M, Hawrusik R, Hernández-Muñoz JJ, Jones C, Jones JT, Lii J, Li J, Lyons JG, Schoeplein R, Shebl FM, Toh S, Patorno E, Schneeweiss S. Strengthening inferential studies in the FDA Sentinel initiative: results from a methodological demonstration project. NPJ Digit Med. 2025 Dec 15. doi: 10.1038/s41746-025-02234-5. Epub ahead of print. PMID: 41398062.
 
 Kattinakere Sreedhara S, Schneeweiss S, D'Andrea E, **Weberpals J**, DiCesare EC, Patorno E, Tsacogianis T, Bradley M, Concato J, Wang SV. Using real-world data to predict findings of an ongoing phase IV trial: glycemic control of semaglutide versus standard of care. BMJ Open Diabetes Res Care. 2025 Oct 29;13(5):e005180. doi: 10.1136/bmjdrc-2025-005180. PMID: 41161770; PMCID: PMC12574359.
