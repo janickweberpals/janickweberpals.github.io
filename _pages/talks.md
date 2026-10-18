@@ -2,13 +2,17 @@
 permalink: /talks/
 title: "Scientific talks and conference contributions"
 author_profile: true
-modified: 4 January 2026
+modified: 18 October 2026
 editor_options: 
   markdown: 
     wrap: 72
 ---
 
 ## Talks & Outreach (conferences and invited)
+
+- **Agentic Code Review and Validation: An Introduction to Agentic Coding Assistants**. Part of the symposium/workshop *Who checks the code and how? Current gaps and emerging solutions for review and validation of analytical code* (SW-1G), with Anton Pottegård, Daniel Prieto-Alhambra and Shirley V. Wang. 42nd International Conference on Pharmacoepidemiology & Therapeutic Risk Management (ICPE 2026), Milan, Italy. 31 August 2026.
+
+- **Predicting Control Arm Benchmarks in Data-Sparse Settings Using Network Meta-Analysis, Computer Vision, and Parametric Survival Models: An Application to Newly Diagnosed Multiple Myeloma**. Part of the session *Function Over Fashion — Innovative Control Designs in Oncology* (5C). Weberpals J, Souliotis L, Kao G, Grigorenko A. 42nd International Conference on Pharmacoepidemiology & Therapeutic Risk Management (ICPE 2026), Milan, Italy. 2 September 2026. [Oral presentation]
 
 - **Application of a Principled Framework to the Robust Emulation of the Checkmate649 Trial in First Line Gastric Cancer Using a Nationwide Electronic Health Record (EHR)-derived Database**. 41st International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Washington D.C., USA. 26 August 2025.
 
@@ -131,6 +135,8 @@ Workshop of the working group Pharmacoepidemiology of the German Society
 for Epidemiology (DGEpi). Bremen, June 8th 2018. [Oral presentation]
 
 ## Posters and others
+
+- Shay D, Schneeweiss S, Glynn RJ, Kehl KL, Mishra-Kalyani PS, Rivera D, Hahn G, Wang SV, **Weberpals J**\*. Evaluation of the Real-wOrld PROgnostic (ROPRO) Score to Predict Overall Survival in Specialized Oncology EHR Databases. 42nd International Conference on Pharmacoepidemiology & Therapeutic Risk Management (ICPE 2026), Milan, Italy, Poster Session C, C-347, 2 September 2026. (Poster) \*Research conducted at a former institution
 
 - **Weberpals J**, Fruechtenicht C, Davis R, Huntley M, Oki Y, Wyatt S,
 Castro F, Trinh H. Patient characteristics, outcomes and potential for
