@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a registered pharmacist, epidemiologist (Ph.D.), health data scientist (postdoc) and `R` enthusiast and currently work as an Associate Director for Real-World Evidence in the Oncology Data Science team at AstraZeneca.
+I'm a registered pharmacist, epidemiologist (Ph.D.), health data scientist (postdoc) and `R` enthusiast and currently work as a Director in the AI for Clinical Intelligence and Evidence team at AstraZeneca.
 
 ## Research interests
 
